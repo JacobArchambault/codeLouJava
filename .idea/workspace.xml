@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4896b96e-1cf1-4a2c-adf3-d639f288a346" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.~lock.FEDFUNDS.csv#" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.~lock.INTDSRUSM193N.csv#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/DiscountRate/DiscountRateDatum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/DiscountRate/DiscountRateReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/FedFunds/FundsRateDatum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/FedFunds/FundsRateReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FEDFUNDS.csv" beforeDir="false" afterPath="$PROJECT_DIR$/FEDFUNDS.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/INTDSRUSM193N.csv" beforeDir="false" afterPath="$PROJECT_DIR$/INTDSRUSM193N.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/DiscountRate/DiscountRateDatum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/DiscountRateDatum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/DiscountRate/DiscountRateReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/DiscountRateReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/FedFunds/FundsRateDatum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/FundsRateDatum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/FedFunds/FundsRateReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/FundsRateReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/jacobarchambault/codeloujava/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jacobarchambault/codeloujava/App.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,6 +49,11 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jacobarchambault.codeloujava" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -112,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564070415509</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Delete INTDSRUSM193N extra column">
+      <created>1564087865984</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564087865985</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,7 +147,8 @@
     <MESSAGE value="Add TODOs, CSVs" />
     <MESSAGE value="Add Discount Rate CSV" />
     <MESSAGE value="Add OpenCSV to pom.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add OpenCSV to pom.xml" />
+    <MESSAGE value="Delete INTDSRUSM193N extra column" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete INTDSRUSM193N extra column" />
   </component>
   <component name="masterDetails">
     <states>
