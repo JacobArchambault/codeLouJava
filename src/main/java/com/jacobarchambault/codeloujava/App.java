@@ -1,12 +1,10 @@
 package com.jacobarchambault.codeloujava;
 
-/**
- * Hello world!
- *
- */
-public class App 
+import java.io.IOException;
+
+public class App
 {
-    public static void main( String[] args )
+    public static void main( String[] args ) throws IOException
     {
 
 //    TODO 1: include README:
@@ -19,11 +17,11 @@ public class App
 //    TODO 1.3: Include a glossary of terms if necessary
 //    TODO 1.4: State any special requirements, dependencies, or steps to run the project
 
+//        This code prints out the main menu to the console.
         System.out.println( "Enter a number to choose an option:" );
-        System.out.println("1. Print a scatter plot of GDP relative to prime loan rate");
-        System.out.println("2. Print dates where year-over-year (YOY) GDP growth exceeded the prime loan rate");
-        System.out.println("3. Print dates where the prime loan rate exceeded YOY GDP Growth");
-        System.out.println("4. Exit program");
+        System.out.println("1. Print a list of months where the federal reserve discount rate was greater than the federal funds rate");
+        System.out.println("2. Print a list of months where the federal funds rate was greater than the federal reserve discount rate");
+        System.out.println("3. Exit program");
 
 //    TODO 2: Find or create any two data sets of your choosing that your application will read from. Acceptable formats include JSON, CSV, txt, SQL database.
 //    TODO 2.1: Import all or a subset of this data
