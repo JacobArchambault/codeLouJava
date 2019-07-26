@@ -1,809 +1,754 @@
-Date: Date. Discount Rate: Discount Rate
-Date: 1950-01-01. Discount Rate: 1.5
-Date: 1950-02-01. Discount Rate: 1.5
-Date: 1950-03-01. Discount Rate: 1.5
-Date: 1950-04-01. Discount Rate: 1.5
-Date: 1950-05-01. Discount Rate: 1.5
-Date: 1950-06-01. Discount Rate: 1.5
-Date: 1950-07-01. Discount Rate: 1.5
-Date: 1950-08-01. Discount Rate: 1.59
-Date: 1950-09-01. Discount Rate: 1.75
-Date: 1950-10-01. Discount Rate: 1.75
-Date: 1950-11-01. Discount Rate: 1.75
-Date: 1950-12-01. Discount Rate: 1.75
-Date: 1951-01-01. Discount Rate: 1.75
-Date: 1951-02-01. Discount Rate: 1.75
-Date: 1951-03-01. Discount Rate: 1.75
-Date: 1951-04-01. Discount Rate: 1.75
-Date: 1951-05-01. Discount Rate: 1.75
-Date: 1951-06-01. Discount Rate: 1.75
-Date: 1951-07-01. Discount Rate: 1.75
-Date: 1951-08-01. Discount Rate: 1.75
-Date: 1951-09-01. Discount Rate: 1.75
-Date: 1951-10-01. Discount Rate: 1.75
-Date: 1951-11-01. Discount Rate: 1.75
-Date: 1951-12-01. Discount Rate: 1.75
-Date: 1952-01-01. Discount Rate: 1.75
-Date: 1952-02-01. Discount Rate: 1.75
-Date: 1952-03-01. Discount Rate: 1.75
-Date: 1952-04-01. Discount Rate: 1.75
-Date: 1952-05-01. Discount Rate: 1.75
-Date: 1952-06-01. Discount Rate: 1.75
-Date: 1952-07-01. Discount Rate: 1.75
-Date: 1952-08-01. Discount Rate: 1.75
-Date: 1952-09-01. Discount Rate: 1.75
-Date: 1952-10-01. Discount Rate: 1.75
-Date: 1952-11-01. Discount Rate: 1.75
-Date: 1952-12-01. Discount Rate: 1.75
-Date: 1953-01-01. Discount Rate: 1.88
-Date: 1953-02-01. Discount Rate: 2
-Date: 1953-03-01. Discount Rate: 2
-Date: 1953-04-01. Discount Rate: 2
-Date: 1953-05-01. Discount Rate: 2
-Date: 1953-06-01. Discount Rate: 2
-Date: 1953-07-01. Discount Rate: 2
-Date: 1953-08-01. Discount Rate: 2
-Date: 1953-09-01. Discount Rate: 2
-Date: 1953-10-01. Discount Rate: 2
-Date: 1953-11-01. Discount Rate: 2
-Date: 1953-12-01. Discount Rate: 2
-Date: 1954-01-01. Discount Rate: 2
-Date: 1954-02-01. Discount Rate: 1.79
-Date: 1954-03-01. Discount Rate: 1.75
-Date: 1954-04-01. Discount Rate: 1.63
-Date: 1954-05-01. Discount Rate: 1.5
-Date: 1954-06-01. Discount Rate: 1.5
-Date: 1954-07-01. Discount Rate: 1.5
-Date: 1954-08-01. Discount Rate: 1.5
-Date: 1954-09-01. Discount Rate: 1.5
-Date: 1954-10-01. Discount Rate: 1.5
-Date: 1954-11-01. Discount Rate: 1.5
-Date: 1954-12-01. Discount Rate: 1.5
-Date: 1955-01-01. Discount Rate: 1.5
-Date: 1955-02-01. Discount Rate: 1.5
-Date: 1955-03-01. Discount Rate: 1.5
-Date: 1955-04-01. Discount Rate: 1.63
-Date: 1955-05-01. Discount Rate: 1.75
-Date: 1955-06-01. Discount Rate: 1.75
-Date: 1955-07-01. Discount Rate: 1.75
-Date: 1955-08-01. Discount Rate: 1.97
-Date: 1955-09-01. Discount Rate: 2.18
-Date: 1955-10-01. Discount Rate: 2.25
-Date: 1955-11-01. Discount Rate: 2.36
-Date: 1955-12-01. Discount Rate: 2.5
-Date: 1956-01-01. Discount Rate: 2.5
-Date: 1956-02-01. Discount Rate: 2.5
-Date: 1956-03-01. Discount Rate: 2.5
-Date: 1956-04-01. Discount Rate: 2.65
-Date: 1956-05-01. Discount Rate: 2.75
-Date: 1956-06-01. Discount Rate: 2.75
-Date: 1956-07-01. Discount Rate: 2.75
-Date: 1956-08-01. Discount Rate: 2.81
-Date: 1956-09-01. Discount Rate: 3
-Date: 1956-10-01. Discount Rate: 3
-Date: 1956-11-01. Discount Rate: 3
-Date: 1956-12-01. Discount Rate: 3
-Date: 1957-01-01. Discount Rate: 3
-Date: 1957-02-01. Discount Rate: 3
-Date: 1957-03-01. Discount Rate: 3
-Date: 1957-04-01. Discount Rate: 3
-Date: 1957-05-01. Discount Rate: 3
-Date: 1957-06-01. Discount Rate: 3
-Date: 1957-07-01. Discount Rate: 3
-Date: 1957-08-01. Discount Rate: 3.15
-Date: 1957-09-01. Discount Rate: 3.5
-Date: 1957-10-01. Discount Rate: 3.5
-Date: 1957-11-01. Discount Rate: 3.23
-Date: 1957-12-01. Discount Rate: 3
-Date: 1958-01-01. Discount Rate: 2.94
-Date: 1958-02-01. Discount Rate: 2.75
-Date: 1958-03-01. Discount Rate: 2.35
-Date: 1958-04-01. Discount Rate: 2.03
-Date: 1958-05-01. Discount Rate: 1.75
-Date: 1958-06-01. Discount Rate: 1.75
-Date: 1958-07-01. Discount Rate: 1.75
-Date: 1958-08-01. Discount Rate: 1.75
-Date: 1958-09-01. Discount Rate: 1.91
-Date: 1958-10-01. Discount Rate: 2
-Date: 1958-11-01. Discount Rate: 2.4
-Date: 1958-12-01. Discount Rate: 2.5
-Date: 1959-01-01. Discount Rate: 2.5
-Date: 1959-02-01. Discount Rate: 2.5
-Date: 1959-03-01. Discount Rate: 2.92
-Date: 1959-04-01. Discount Rate: 3
-Date: 1959-05-01. Discount Rate: 3.05
-Date: 1959-06-01. Discount Rate: 3.5
-Date: 1959-07-01. Discount Rate: 3.5
-Date: 1959-08-01. Discount Rate: 3.5
-Date: 1959-09-01. Discount Rate: 3.83
-Date: 1959-10-01. Discount Rate: 4
-Date: 1959-11-01. Discount Rate: 4
-Date: 1959-12-01. Discount Rate: 4
-Date: 1960-01-01. Discount Rate: 4
-Date: 1960-02-01. Discount Rate: 4
-Date: 1960-03-01. Discount Rate: 4
-Date: 1960-04-01. Discount Rate: 4
-Date: 1960-05-01. Discount Rate: 4
-Date: 1960-06-01. Discount Rate: 3.65
-Date: 1960-07-01. Discount Rate: 3.5
-Date: 1960-08-01. Discount Rate: 3.18
-Date: 1960-09-01. Discount Rate: 3
-Date: 1960-10-01. Discount Rate: 3
-Date: 1960-11-01. Discount Rate: 3
-Date: 1960-12-01. Discount Rate: 3
-Date: 1961-01-01. Discount Rate: 3
-Date: 1961-02-01. Discount Rate: 3
-Date: 1961-03-01. Discount Rate: 3
-Date: 1961-04-01. Discount Rate: 3
-Date: 1961-05-01. Discount Rate: 3
-Date: 1961-06-01. Discount Rate: 3
-Date: 1961-07-01. Discount Rate: 3
-Date: 1961-08-01. Discount Rate: 3
-Date: 1961-09-01. Discount Rate: 3
-Date: 1961-10-01. Discount Rate: 3
-Date: 1961-11-01. Discount Rate: 3
-Date: 1961-12-01. Discount Rate: 3
-Date: 1962-01-01. Discount Rate: 3
-Date: 1962-02-01. Discount Rate: 3
-Date: 1962-03-01. Discount Rate: 3
-Date: 1962-04-01. Discount Rate: 3
-Date: 1962-05-01. Discount Rate: 3
-Date: 1962-06-01. Discount Rate: 3
-Date: 1962-07-01. Discount Rate: 3
-Date: 1962-08-01. Discount Rate: 3
-Date: 1962-09-01. Discount Rate: 3
-Date: 1962-10-01. Discount Rate: 3
-Date: 1962-11-01. Discount Rate: 3
-Date: 1962-12-01. Discount Rate: 3
-Date: 1963-01-01. Discount Rate: 3
-Date: 1963-02-01. Discount Rate: 3
-Date: 1963-03-01. Discount Rate: 3
-Date: 1963-04-01. Discount Rate: 3
-Date: 1963-05-01. Discount Rate: 3
-Date: 1963-06-01. Discount Rate: 3
-Date: 1963-07-01. Discount Rate: 3.24
-Date: 1963-08-01. Discount Rate: 3.5
-Date: 1963-09-01. Discount Rate: 3.5
-Date: 1963-10-01. Discount Rate: 3.5
-Date: 1963-11-01. Discount Rate: 3.5
-Date: 1963-12-01. Discount Rate: 3.5
-Date: 1964-01-01. Discount Rate: 3.5
-Date: 1964-02-01. Discount Rate: 3.5
-Date: 1964-03-01. Discount Rate: 3.5
-Date: 1964-04-01. Discount Rate: 3.5
-Date: 1964-05-01. Discount Rate: 3.5
-Date: 1964-06-01. Discount Rate: 3.5
-Date: 1964-07-01. Discount Rate: 3.5
-Date: 1964-08-01. Discount Rate: 3.5
-Date: 1964-09-01. Discount Rate: 3.5
-Date: 1964-10-01. Discount Rate: 3.5
-Date: 1964-11-01. Discount Rate: 3.62
-Date: 1964-12-01. Discount Rate: 4
-Date: 1965-01-01. Discount Rate: 4
-Date: 1965-02-01. Discount Rate: 4
-Date: 1965-03-01. Discount Rate: 4
-Date: 1965-04-01. Discount Rate: 4
-Date: 1965-05-01. Discount Rate: 4
-Date: 1965-06-01. Discount Rate: 4
-Date: 1965-07-01. Discount Rate: 4
-Date: 1965-08-01. Discount Rate: 4
-Date: 1965-09-01. Discount Rate: 4
-Date: 1965-10-01. Discount Rate: 4
-Date: 1965-11-01. Discount Rate: 4
-Date: 1965-12-01. Discount Rate: 4.42
-Date: 1966-01-01. Discount Rate: 4.5
-Date: 1966-02-01. Discount Rate: 4.5
-Date: 1966-03-01. Discount Rate: 4.5
-Date: 1966-04-01. Discount Rate: 4.5
-Date: 1966-05-01. Discount Rate: 4.5
-Date: 1966-06-01. Discount Rate: 4.5
-Date: 1966-07-01. Discount Rate: 4.5
-Date: 1966-08-01. Discount Rate: 4.5
-Date: 1966-09-01. Discount Rate: 4.5
-Date: 1966-10-01. Discount Rate: 4.5
-Date: 1966-11-01. Discount Rate: 4.5
-Date: 1966-12-01. Discount Rate: 4.5
-Date: 1967-01-01. Discount Rate: 4.5
-Date: 1967-02-01. Discount Rate: 4.5
-Date: 1967-03-01. Discount Rate: 4.5
-Date: 1967-04-01. Discount Rate: 4.1
-Date: 1967-05-01. Discount Rate: 4
-Date: 1967-06-01. Discount Rate: 4
-Date: 1967-07-01. Discount Rate: 4
-Date: 1967-08-01. Discount Rate: 4
-Date: 1967-09-01. Discount Rate: 4
-Date: 1967-10-01. Discount Rate: 4
-Date: 1967-11-01. Discount Rate: 4.18
-Date: 1967-12-01. Discount Rate: 4.5
-Date: 1968-01-01. Discount Rate: 4.5
-Date: 1968-02-01. Discount Rate: 4.5
-Date: 1968-03-01. Discount Rate: 4.66
-Date: 1968-04-01. Discount Rate: 5.2
-Date: 1968-05-01. Discount Rate: 5.5
-Date: 1968-06-01. Discount Rate: 5.5
-Date: 1968-07-01. Discount Rate: 5.5
-Date: 1968-08-01. Discount Rate: 5.48
-Date: 1968-09-01. Discount Rate: 5.25
-Date: 1968-10-01. Discount Rate: 5.25
-Date: 1968-11-01. Discount Rate: 5.25
-Date: 1968-12-01. Discount Rate: 5.36
-Date: 1969-01-01. Discount Rate: 5.5
-Date: 1969-02-01. Discount Rate: 5.5
-Date: 1969-03-01. Discount Rate: 5.5
-Date: 1969-04-01. Discount Rate: 5.95
-Date: 1969-05-01. Discount Rate: 6
-Date: 1969-06-01. Discount Rate: 6
-Date: 1969-07-01. Discount Rate: 6
-Date: 1969-08-01. Discount Rate: 6
-Date: 1969-09-01. Discount Rate: 6
-Date: 1969-10-01. Discount Rate: 6
-Date: 1969-11-01. Discount Rate: 6
-Date: 1969-12-01. Discount Rate: 6
-Date: 1970-01-01. Discount Rate: 6
-Date: 1970-02-01. Discount Rate: 6
-Date: 1970-03-01. Discount Rate: 6
-Date: 1970-04-01. Discount Rate: 6
-Date: 1970-05-01. Discount Rate: 6
-Date: 1970-06-01. Discount Rate: 6
-Date: 1970-07-01. Discount Rate: 6
-Date: 1970-08-01. Discount Rate: 6
-Date: 1970-09-01. Discount Rate: 6
-Date: 1970-10-01. Discount Rate: 6
-Date: 1970-11-01. Discount Rate: 5.85
-Date: 1970-12-01. Discount Rate: 5.52
-Date: 1971-01-01. Discount Rate: 5.23
-Date: 1971-02-01. Discount Rate: 4.91
-Date: 1971-03-01. Discount Rate: 4.75
-Date: 1971-04-01. Discount Rate: 4.75
-Date: 1971-05-01. Discount Rate: 4.75
-Date: 1971-06-01. Discount Rate: 4.75
-Date: 1971-07-01. Discount Rate: 4.88
-Date: 1971-08-01. Discount Rate: 5
-Date: 1971-09-01. Discount Rate: 5
-Date: 1971-10-01. Discount Rate: 5
-Date: 1971-11-01. Discount Rate: 4.9
-Date: 1971-12-01. Discount Rate: 4.63
-Date: 1972-01-01. Discount Rate: 4.5
-Date: 1972-02-01. Discount Rate: 4.5
-Date: 1972-03-01. Discount Rate: 4.5
-Date: 1972-04-01. Discount Rate: 4.5
-Date: 1972-05-01. Discount Rate: 4.5
-Date: 1972-06-01. Discount Rate: 4.5
-Date: 1972-07-01. Discount Rate: 4.5
-Date: 1972-08-01. Discount Rate: 4.5
-Date: 1972-09-01. Discount Rate: 4.5
-Date: 1972-10-01. Discount Rate: 4.5
-Date: 1972-11-01. Discount Rate: 4.5
-Date: 1972-12-01. Discount Rate: 4.5
-Date: 1973-01-01. Discount Rate: 4.77
-Date: 1973-02-01. Discount Rate: 5.05
-Date: 1973-03-01. Discount Rate: 5.5
-Date: 1973-04-01. Discount Rate: 5.5
-Date: 1973-05-01. Discount Rate: 5.9
-Date: 1973-06-01. Discount Rate: 6.33
-Date: 1973-07-01. Discount Rate: 6.98
-Date: 1973-08-01. Discount Rate: 7.29
-Date: 1973-09-01. Discount Rate: 7.5
-Date: 1973-10-01. Discount Rate: 7.5
-Date: 1973-11-01. Discount Rate: 7.5
-Date: 1973-12-01. Discount Rate: 7.5
-Date: 1974-01-01. Discount Rate: 7.5
-Date: 1974-02-01. Discount Rate: 7.5
-Date: 1974-03-01. Discount Rate: 7.5
-Date: 1974-04-01. Discount Rate: 7.6
-Date: 1974-05-01. Discount Rate: 8
-Date: 1974-06-01. Discount Rate: 8
-Date: 1974-07-01. Discount Rate: 8
-Date: 1974-08-01. Discount Rate: 8
-Date: 1974-09-01. Discount Rate: 8
-Date: 1974-10-01. Discount Rate: 8
-Date: 1974-11-01. Discount Rate: 8
-Date: 1974-12-01. Discount Rate: 7.81
-Date: 1975-01-01. Discount Rate: 7.4
-Date: 1975-02-01. Discount Rate: 6.82
-Date: 1975-03-01. Discount Rate: 6.4
-Date: 1975-04-01. Discount Rate: 6.25
-Date: 1975-05-01. Discount Rate: 6.12
-Date: 1975-06-01. Discount Rate: 6
-Date: 1975-07-01. Discount Rate: 6
-Date: 1975-08-01. Discount Rate: 6
-Date: 1975-09-01. Discount Rate: 6
-Date: 1975-10-01. Discount Rate: 6
-Date: 1975-11-01. Discount Rate: 6
-Date: 1975-12-01. Discount Rate: 6
-Date: 1976-01-01. Discount Rate: 5.79
-Date: 1976-02-01. Discount Rate: 5.5
-Date: 1976-03-01. Discount Rate: 5.5
-Date: 1976-04-01. Discount Rate: 5.5
-Date: 1976-05-01. Discount Rate: 5.5
-Date: 1976-06-01. Discount Rate: 5.5
-Date: 1976-07-01. Discount Rate: 5.5
-Date: 1976-08-01. Discount Rate: 5.5
-Date: 1976-09-01. Discount Rate: 5.5
-Date: 1976-10-01. Discount Rate: 5.5
-Date: 1976-11-01. Discount Rate: 5.43
-Date: 1976-12-01. Discount Rate: 5.25
-Date: 1977-01-01. Discount Rate: 5.25
-Date: 1977-02-01. Discount Rate: 5.25
-Date: 1977-03-01. Discount Rate: 5.25
-Date: 1977-04-01. Discount Rate: 5.25
-Date: 1977-05-01. Discount Rate: 5.25
-Date: 1977-06-01. Discount Rate: 5.25
-Date: 1977-07-01. Discount Rate: 5.25
-Date: 1977-08-01. Discount Rate: 5.27
-Date: 1977-09-01. Discount Rate: 5.75
-Date: 1977-10-01. Discount Rate: 5.8
-Date: 1977-11-01. Discount Rate: 6
-Date: 1977-12-01. Discount Rate: 6
-Date: 1978-01-01. Discount Rate: 6.37
-Date: 1978-02-01. Discount Rate: 6.5
-Date: 1978-03-01. Discount Rate: 6.5
-Date: 1978-04-01. Discount Rate: 6.5
-Date: 1978-05-01. Discount Rate: 6.84
-Date: 1978-06-01. Discount Rate: 7
-Date: 1978-07-01. Discount Rate: 7.23
-Date: 1978-08-01. Discount Rate: 7.43
-Date: 1978-09-01. Discount Rate: 7.83
-Date: 1978-10-01. Discount Rate: 8.26
-Date: 1978-11-01. Discount Rate: 9.5
-Date: 1978-12-01. Discount Rate: 9.5
-Date: 1979-01-01. Discount Rate: 9.5
-Date: 1979-02-01. Discount Rate: 9.5
-Date: 1979-03-01. Discount Rate: 9.5
-Date: 1979-04-01. Discount Rate: 9.5
-Date: 1979-05-01. Discount Rate: 9.5
-Date: 1979-06-01. Discount Rate: 9.5
-Date: 1979-07-01. Discount Rate: 9.69
-Date: 1979-08-01. Discount Rate: 10.24
-Date: 1979-09-01. Discount Rate: 10.7
-Date: 1979-10-01. Discount Rate: 11.77
-Date: 1979-11-01. Discount Rate: 12
-Date: 1979-12-01. Discount Rate: 12
-Date: 1980-01-01. Discount Rate: 12
-Date: 1980-02-01. Discount Rate: 12.52
-Date: 1980-03-01. Discount Rate: 13
-Date: 1980-04-01. Discount Rate: 13
-Date: 1980-05-01. Discount Rate: 12.94
-Date: 1980-06-01. Discount Rate: 11.4
-Date: 1980-07-01. Discount Rate: 10.87
-Date: 1980-08-01. Discount Rate: 10
-Date: 1980-09-01. Discount Rate: 10.17
-Date: 1980-10-01. Discount Rate: 11
-Date: 1980-11-01. Discount Rate: 11.47
-Date: 1980-12-01. Discount Rate: 12.87
-Date: 1981-01-01. Discount Rate: 13
-Date: 1981-02-01. Discount Rate: 13
-Date: 1981-03-01. Discount Rate: 13
-Date: 1981-04-01. Discount Rate: 13
-Date: 1981-05-01. Discount Rate: 13.87
-Date: 1981-06-01. Discount Rate: 14
-Date: 1981-07-01. Discount Rate: 14
-Date: 1981-08-01. Discount Rate: 14
-Date: 1981-09-01. Discount Rate: 14
-Date: 1981-10-01. Discount Rate: 14
-Date: 1981-11-01. Discount Rate: 13.03
-Date: 1981-12-01. Discount Rate: 12.1
-Date: 1982-01-01. Discount Rate: 12
-Date: 1982-02-01. Discount Rate: 12
-Date: 1982-03-01. Discount Rate: 12
-Date: 1982-04-01. Discount Rate: 12
-Date: 1982-05-01. Discount Rate: 12
-Date: 1982-06-01. Discount Rate: 12
-Date: 1982-07-01. Discount Rate: 11.81
-Date: 1982-08-01. Discount Rate: 10.68
-Date: 1982-09-01. Discount Rate: 10
-Date: 1982-10-01. Discount Rate: 9.68
-Date: 1982-11-01. Discount Rate: 9.35
-Date: 1982-12-01. Discount Rate: 8.73
-Date: 1983-01-01. Discount Rate: 8.5
-Date: 1983-02-01. Discount Rate: 8.5
-Date: 1983-03-01. Discount Rate: 8.5
-Date: 1983-04-01. Discount Rate: 8.5
-Date: 1983-05-01. Discount Rate: 8.5
-Date: 1983-06-01. Discount Rate: 8.5
-Date: 1983-07-01. Discount Rate: 8.5
-Date: 1983-08-01. Discount Rate: 8.5
-Date: 1983-09-01. Discount Rate: 8.5
-Date: 1983-10-01. Discount Rate: 8.5
-Date: 1983-11-01. Discount Rate: 8.5
-Date: 1983-12-01. Discount Rate: 8.5
-Date: 1984-01-01. Discount Rate: 8.5
-Date: 1984-02-01. Discount Rate: 8.5
-Date: 1984-03-01. Discount Rate: 8.5
-Date: 1984-04-01. Discount Rate: 8.87
-Date: 1984-05-01. Discount Rate: 9
-Date: 1984-06-01. Discount Rate: 9
-Date: 1984-07-01. Discount Rate: 9
-Date: 1984-08-01. Discount Rate: 9
-Date: 1984-09-01. Discount Rate: 9
-Date: 1984-10-01. Discount Rate: 9
-Date: 1984-11-01. Discount Rate: 8.83
-Date: 1984-12-01. Discount Rate: 8.37
-Date: 1985-01-01. Discount Rate: 8
-Date: 1985-02-01. Discount Rate: 8
-Date: 1985-03-01. Discount Rate: 8
-Date: 1985-04-01. Discount Rate: 8
-Date: 1985-05-01. Discount Rate: 7.81
-Date: 1985-06-01. Discount Rate: 7.5
-Date: 1985-07-01. Discount Rate: 7.5
-Date: 1985-08-01. Discount Rate: 7.5
-Date: 1985-09-01. Discount Rate: 7.5
-Date: 1985-10-01. Discount Rate: 7.5
-Date: 1985-11-01. Discount Rate: 7.5
-Date: 1985-12-01. Discount Rate: 7.5
-Date: 1986-01-01. Discount Rate: 7.5
-Date: 1986-02-01. Discount Rate: 7.5
-Date: 1986-03-01. Discount Rate: 7.1
-Date: 1986-04-01. Discount Rate: 6.83
-Date: 1986-05-01. Discount Rate: 6.5
-Date: 1986-06-01. Discount Rate: 6.5
-Date: 1986-07-01. Discount Rate: 6.16
-Date: 1986-08-01. Discount Rate: 5.82
-Date: 1986-09-01. Discount Rate: 5.5
-Date: 1986-10-01. Discount Rate: 5.5
-Date: 1986-11-01. Discount Rate: 5.5
-Date: 1986-12-01. Discount Rate: 5.5
-Date: 1987-01-01. Discount Rate: 5.5
-Date: 1987-02-01. Discount Rate: 5.5
-Date: 1987-03-01. Discount Rate: 5.5
-Date: 1987-04-01. Discount Rate: 5.5
-Date: 1987-05-01. Discount Rate: 5.5
-Date: 1987-06-01. Discount Rate: 5.5
-Date: 1987-07-01. Discount Rate: 5.5
-Date: 1987-08-01. Discount Rate: 5.5
-Date: 1987-09-01. Discount Rate: 5.95
-Date: 1987-10-01. Discount Rate: 6
-Date: 1987-11-01. Discount Rate: 6
-Date: 1987-12-01. Discount Rate: 6
-Date: 1988-01-01. Discount Rate: 6
-Date: 1988-02-01. Discount Rate: 6
-Date: 1988-03-01. Discount Rate: 6
-Date: 1988-04-01. Discount Rate: 6
-Date: 1988-05-01. Discount Rate: 6
-Date: 1988-06-01. Discount Rate: 6
-Date: 1988-07-01. Discount Rate: 6
-Date: 1988-08-01. Discount Rate: 6.37
-Date: 1988-09-01. Discount Rate: 6.5
-Date: 1988-10-01. Discount Rate: 6.5
-Date: 1988-11-01. Discount Rate: 6.5
-Date: 1988-12-01. Discount Rate: 6.5
-Date: 1989-01-01. Discount Rate: 6.5
-Date: 1989-02-01. Discount Rate: 6.59
-Date: 1989-03-01. Discount Rate: 7
-Date: 1989-04-01. Discount Rate: 7
-Date: 1989-05-01. Discount Rate: 7
-Date: 1989-06-01. Discount Rate: 7
-Date: 1989-07-01. Discount Rate: 7
-Date: 1989-08-01. Discount Rate: 7
-Date: 1989-09-01. Discount Rate: 7
-Date: 1989-10-01. Discount Rate: 7
-Date: 1989-11-01. Discount Rate: 7
-Date: 1989-12-01. Discount Rate: 7
-Date: 1990-01-01. Discount Rate: 7
-Date: 1990-02-01. Discount Rate: 7
-Date: 1990-03-01. Discount Rate: 7
-Date: 1990-04-01. Discount Rate: 7
-Date: 1990-05-01. Discount Rate: 7
-Date: 1990-06-01. Discount Rate: 7
-Date: 1990-07-01. Discount Rate: 7
-Date: 1990-08-01. Discount Rate: 7
-Date: 1990-09-01. Discount Rate: 7
-Date: 1990-10-01. Discount Rate: 7
-Date: 1990-11-01. Discount Rate: 7
-Date: 1990-12-01. Discount Rate: 6.79
-Date: 1991-01-01. Discount Rate: 6.5
-Date: 1991-02-01. Discount Rate: 6
-Date: 1991-03-01. Discount Rate: 6
-Date: 1991-04-01. Discount Rate: 5.98
-Date: 1991-05-01. Discount Rate: 5.5
-Date: 1991-06-01. Discount Rate: 5.5
-Date: 1991-07-01. Discount Rate: 5.5
-Date: 1991-08-01. Discount Rate: 5.5
-Date: 1991-09-01. Discount Rate: 5.2
-Date: 1991-10-01. Discount Rate: 5
-Date: 1991-11-01. Discount Rate: 4.58
-Date: 1991-12-01. Discount Rate: 4.11
-Date: 1992-01-01. Discount Rate: 3.5
-Date: 1992-02-01. Discount Rate: 3.5
-Date: 1992-03-01. Discount Rate: 3.5
-Date: 1992-04-01. Discount Rate: 3.5
-Date: 1992-05-01. Discount Rate: 3.5
-Date: 1992-06-01. Discount Rate: 3.5
-Date: 1992-07-01. Discount Rate: 3.02
-Date: 1992-08-01. Discount Rate: 3
-Date: 1992-09-01. Discount Rate: 3
-Date: 1992-10-01. Discount Rate: 3
-Date: 1992-11-01. Discount Rate: 3
-Date: 1992-12-01. Discount Rate: 3
-Date: 1993-01-01. Discount Rate: 3
-Date: 1993-02-01. Discount Rate: 3
-Date: 1993-03-01. Discount Rate: 3
-Date: 1993-04-01. Discount Rate: 3
-Date: 1993-05-01. Discount Rate: 3
-Date: 1993-06-01. Discount Rate: 3
-Date: 1993-07-01. Discount Rate: 3
-Date: 1993-08-01. Discount Rate: 3
-Date: 1993-09-01. Discount Rate: 3
-Date: 1993-10-01. Discount Rate: 3
-Date: 1993-11-01. Discount Rate: 3
-Date: 1993-12-01. Discount Rate: 3
-Date: 1994-01-01. Discount Rate: 3
-Date: 1994-02-01. Discount Rate: 3
-Date: 1994-03-01. Discount Rate: 3
-Date: 1994-04-01. Discount Rate: 3
-Date: 1994-05-01. Discount Rate: 3.24
-Date: 1994-06-01. Discount Rate: 3.5
-Date: 1994-07-01. Discount Rate: 3.5
-Date: 1994-08-01. Discount Rate: 3.76
-Date: 1994-09-01. Discount Rate: 4
-Date: 1994-10-01. Discount Rate: 4
-Date: 1994-11-01. Discount Rate: 4.4
-Date: 1994-12-01. Discount Rate: 4.75
-Date: 1995-01-01. Discount Rate: 4.75
-Date: 1995-02-01. Discount Rate: 5.25
-Date: 1995-03-01. Discount Rate: 5.25
-Date: 1995-04-01. Discount Rate: 5.25
-Date: 1995-05-01. Discount Rate: 5.25
-Date: 1995-06-01. Discount Rate: 5.25
-Date: 1995-07-01. Discount Rate: 5.25
-Date: 1995-08-01. Discount Rate: 5.25
-Date: 1995-09-01. Discount Rate: 5.25
-Date: 1995-10-01. Discount Rate: 5.25
-Date: 1995-11-01. Discount Rate: 5.25
-Date: 1995-12-01. Discount Rate: 5.25
-Date: 1996-01-01. Discount Rate: 5.24
-Date: 1996-02-01. Discount Rate: 5
-Date: 1996-03-01. Discount Rate: 5
-Date: 1996-04-01. Discount Rate: 5
-Date: 1996-05-01. Discount Rate: 5
-Date: 1996-06-01. Discount Rate: 5
-Date: 1996-07-01. Discount Rate: 5
-Date: 1996-08-01. Discount Rate: 5
-Date: 1996-09-01. Discount Rate: 5
-Date: 1996-10-01. Discount Rate: 5
-Date: 1996-11-01. Discount Rate: 5
-Date: 1996-12-01. Discount Rate: 5
-Date: 1997-01-01. Discount Rate: 5
-Date: 1997-02-01. Discount Rate: 5
-Date: 1997-03-01. Discount Rate: 5
-Date: 1997-04-01. Discount Rate: 5
-Date: 1997-05-01. Discount Rate: 5
-Date: 1997-06-01. Discount Rate: 5
-Date: 1997-07-01. Discount Rate: 5
-Date: 1997-08-01. Discount Rate: 5
-Date: 1997-09-01. Discount Rate: 5
-Date: 1997-10-01. Discount Rate: 5
-Date: 1997-11-01. Discount Rate: 5
-Date: 1997-12-01. Discount Rate: 5
-Date: 1998-01-01. Discount Rate: 5
-Date: 1998-02-01. Discount Rate: 5
-Date: 1998-03-01. Discount Rate: 5
-Date: 1998-04-01. Discount Rate: 5
-Date: 1998-05-01. Discount Rate: 5
-Date: 1998-06-01. Discount Rate: 5
-Date: 1998-07-01. Discount Rate: 5
-Date: 1998-08-01. Discount Rate: 5
-Date: 1998-09-01. Discount Rate: 5
-Date: 1998-10-01. Discount Rate: 4.86
-Date: 1998-11-01. Discount Rate: 4.63
-Date: 1998-12-01. Discount Rate: 4.5
-Date: 1999-01-01. Discount Rate: 4.5
-Date: 1999-02-01. Discount Rate: 4.5
-Date: 1999-03-01. Discount Rate: 4.5
-Date: 1999-04-01. Discount Rate: 4.5
-Date: 1999-05-01. Discount Rate: 4.5
-Date: 1999-06-01. Discount Rate: 4.5
-Date: 1999-07-01. Discount Rate: 4.5
-Date: 1999-08-01. Discount Rate: 4.56
-Date: 1999-09-01. Discount Rate: 4.75
-Date: 1999-10-01. Discount Rate: 4.75
-Date: 1999-11-01. Discount Rate: 4.86
-Date: 1999-12-01. Discount Rate: 5
-Date: 2000-01-01. Discount Rate: 5
-Date: 2000-02-01. Discount Rate: 5.24
-Date: 2000-03-01. Discount Rate: 5.34
-Date: 2000-04-01. Discount Rate: 5.5
-Date: 2000-05-01. Discount Rate: 5.71
-Date: 2000-06-01. Discount Rate: 6
-Date: 2000-07-01. Discount Rate: 6
-Date: 2000-08-01. Discount Rate: 6
-Date: 2000-09-01. Discount Rate: 6
-Date: 2000-10-01. Discount Rate: 6
-Date: 2000-11-01. Discount Rate: 6
-Date: 2000-12-01. Discount Rate: 6
-Date: 2001-01-01. Discount Rate: 5.52
-Date: 2001-02-01. Discount Rate: 5
-Date: 2001-03-01. Discount Rate: 4.81
-Date: 2001-04-01. Discount Rate: 4.28
-Date: 2001-05-01. Discount Rate: 3.73
-Date: 2001-06-01. Discount Rate: 3.47
-Date: 2001-07-01. Discount Rate: 3.25
-Date: 2001-08-01. Discount Rate: 3.16
-Date: 2001-09-01. Discount Rate: 2.77
-Date: 2001-10-01. Discount Rate: 2.02
-Date: 2001-11-01. Discount Rate: 1.58
-Date: 2001-12-01. Discount Rate: 1.33
-Date: 2002-01-01. Discount Rate: 1.25
-Date: 2002-02-01. Discount Rate: 1.25
-Date: 2002-03-01. Discount Rate: 1.25
-Date: 2002-04-01. Discount Rate: 1.25
-Date: 2002-05-01. Discount Rate: 1.25
-Date: 2002-06-01. Discount Rate: 1.25
-Date: 2002-07-01. Discount Rate: 1.25
-Date: 2002-08-01. Discount Rate: 1.25
-Date: 2002-09-01. Discount Rate: 1.25
-Date: 2002-10-01. Discount Rate: 1.25
-Date: 2002-11-01. Discount Rate: 0.83
-Date: 2002-12-01. Discount Rate: 0.75
-Date: 2003-01-01. Discount Rate: 2.25
-Date: 2003-02-01. Discount Rate: 2.25
-Date: 2003-03-01. Discount Rate: 2.25
-Date: 2003-04-01. Discount Rate: 2.25
-Date: 2003-05-01. Discount Rate: 2.25
-Date: 2003-06-01. Discount Rate: 2
-Date: 2003-07-01. Discount Rate: 2
-Date: 2003-08-01. Discount Rate: 2
-Date: 2003-09-01. Discount Rate: 2
-Date: 2003-10-01. Discount Rate: 2
-Date: 2003-11-01. Discount Rate: 2
-Date: 2003-12-01. Discount Rate: 2
-Date: 2004-01-01. Discount Rate: 2
-Date: 2004-02-01. Discount Rate: 2
-Date: 2004-03-01. Discount Rate: 2
-Date: 2004-04-01. Discount Rate: 2
-Date: 2004-05-01. Discount Rate: 2
-Date: 2004-06-01. Discount Rate: 2.25
-Date: 2004-07-01. Discount Rate: 2.25
-Date: 2004-08-01. Discount Rate: 2.5
-Date: 2004-09-01. Discount Rate: 2.75
-Date: 2004-10-01. Discount Rate: 2.75
-Date: 2004-11-01. Discount Rate: 3
-Date: 2004-12-01. Discount Rate: 3.25
-Date: 2005-01-01. Discount Rate: 3.25
-Date: 2005-02-01. Discount Rate: 3.5
-Date: 2005-03-01. Discount Rate: 3.75
-Date: 2005-04-01. Discount Rate: 3.75
-Date: 2005-05-01. Discount Rate: 4
-Date: 2005-06-01. Discount Rate: 4.25
-Date: 2005-07-01. Discount Rate: 4.25
-Date: 2005-08-01. Discount Rate: 4.5
-Date: 2005-09-01. Discount Rate: 4.75
-Date: 2005-10-01. Discount Rate: 4.75
-Date: 2005-11-01. Discount Rate: 5
-Date: 2005-12-01. Discount Rate: 5.25
-Date: 2006-01-01. Discount Rate: 5.5
-Date: 2006-02-01. Discount Rate: 5.5
-Date: 2006-03-01. Discount Rate: 5.75
-Date: 2006-04-01. Discount Rate: 5.75
-Date: 2006-05-01. Discount Rate: 6
-Date: 2006-06-01. Discount Rate: 6.25
-Date: 2006-07-01. Discount Rate: 6.25
-Date: 2006-08-01. Discount Rate: 6.25
-Date: 2006-09-01. Discount Rate: 6.25
-Date: 2006-10-01. Discount Rate: 6.25
-Date: 2006-11-01. Discount Rate: 6.25
-Date: 2006-12-01. Discount Rate: 6.25
-Date: 2007-01-01. Discount Rate: 6.25
-Date: 2007-02-01. Discount Rate: 6.25
-Date: 2007-03-01. Discount Rate: 6.25
-Date: 2007-04-01. Discount Rate: 6.25
-Date: 2007-05-01. Discount Rate: 6.25
-Date: 2007-06-01. Discount Rate: 6.25
-Date: 2007-07-01. Discount Rate: 6.25
-Date: 2007-08-01. Discount Rate: 5.75
-Date: 2007-09-01. Discount Rate: 5.25
-Date: 2007-10-01. Discount Rate: 5
-Date: 2007-11-01. Discount Rate: 5
-Date: 2007-12-01. Discount Rate: 4.75
-Date: 2008-01-01. Discount Rate: 3.5
-Date: 2008-02-01. Discount Rate: 3.5
-Date: 2008-03-01. Discount Rate: 2.5
-Date: 2008-04-01. Discount Rate: 2.25
-Date: 2008-05-01. Discount Rate: 2.25
-Date: 2008-06-01. Discount Rate: 2.25
-Date: 2008-07-01. Discount Rate: 2.25
-Date: 2008-08-01. Discount Rate: 2.25
-Date: 2008-09-01. Discount Rate: 2.25
-Date: 2008-10-01. Discount Rate: 1.25
-Date: 2008-11-01. Discount Rate: 1.25
-Date: 2008-12-01. Discount Rate: 0.5
-Date: 2009-01-01. Discount Rate: 0.5
-Date: 2009-02-01. Discount Rate: 0.5
-Date: 2009-03-01. Discount Rate: 0.5
-Date: 2009-04-01. Discount Rate: 0.5
-Date: 2009-05-01. Discount Rate: 0.5
-Date: 2009-06-01. Discount Rate: 0.5
-Date: 2009-07-01. Discount Rate: 0.5
-Date: 2009-08-01. Discount Rate: 0.5
-Date: 2009-09-01. Discount Rate: 0.5
-Date: 2009-10-01. Discount Rate: 0.5
-Date: 2009-11-01. Discount Rate: 0.5
-Date: 2009-12-01. Discount Rate: 0.5
-Date: 2010-01-01. Discount Rate: 0.5
-Date: 2010-02-01. Discount Rate: 0.75
-Date: 2010-03-01. Discount Rate: 0.75
-Date: 2010-04-01. Discount Rate: 0.75
-Date: 2010-05-01. Discount Rate: 0.75
-Date: 2010-06-01. Discount Rate: 0.75
-Date: 2010-07-01. Discount Rate: 0.75
-Date: 2010-08-01. Discount Rate: 0.75
-Date: 2010-09-01. Discount Rate: 0.75
-Date: 2010-10-01. Discount Rate: 0.75
-Date: 2010-11-01. Discount Rate: 0.75
-Date: 2010-12-01. Discount Rate: 0.75
-Date: 2011-01-01. Discount Rate: 0.75
-Date: 2011-02-01. Discount Rate: 0.75
-Date: 2011-03-01. Discount Rate: 0.75
-Date: 2011-04-01. Discount Rate: 0.75
-Date: 2011-05-01. Discount Rate: 0.75
-Date: 2011-06-01. Discount Rate: 0.75
-Date: 2011-07-01. Discount Rate: 0.75
-Date: 2011-08-01. Discount Rate: 0.75
-Date: 2011-09-01. Discount Rate: 0.75
-Date: 2011-10-01. Discount Rate: 0.75
-Date: 2011-11-01. Discount Rate: 0.75
-Date: 2011-12-01. Discount Rate: 0.75
-Date: 2012-01-01. Discount Rate: 0.75
-Date: 2012-02-01. Discount Rate: 0.75
-Date: 2012-03-01. Discount Rate: 0.75
-Date: 2012-04-01. Discount Rate: 0.75
-Date: 2012-05-01. Discount Rate: 0.75
-Date: 2012-06-01. Discount Rate: 0.75
-Date: 2012-07-01. Discount Rate: 0.75
-Date: 2012-08-01. Discount Rate: 0.75
-Date: 2012-09-01. Discount Rate: 0.75
-Date: 2012-10-01. Discount Rate: 0.75
-Date: 2012-11-01. Discount Rate: 0.75
-Date: 2012-12-01. Discount Rate: 0.75
-Date: 2013-01-01. Discount Rate: 0.75
-Date: 2013-02-01. Discount Rate: 0.75
-Date: 2013-03-01. Discount Rate: 0.75
-Date: 2013-04-01. Discount Rate: 0.75
-Date: 2013-05-01. Discount Rate: 0.75
-Date: 2013-06-01. Discount Rate: 0.75
-Date: 2013-07-01. Discount Rate: 0.75
-Date: 2013-08-01. Discount Rate: 0.75
-Date: 2013-09-01. Discount Rate: 0.75
-Date: 2013-10-01. Discount Rate: 0.75
-Date: 2013-11-01. Discount Rate: 0.75
-Date: 2013-12-01. Discount Rate: 0.75
-Date: 2014-01-01. Discount Rate: 0.75
-Date: 2014-02-01. Discount Rate: 0.75
-Date: 2014-03-01. Discount Rate: 0.75
-Date: 2014-04-01. Discount Rate: 0.75
-Date: 2014-05-01. Discount Rate: 0.75
-Date: 2014-06-01. Discount Rate: 0.75
-Date: 2014-07-01. Discount Rate: 0.75
-Date: 2014-08-01. Discount Rate: 0.75
-Date: 2014-09-01. Discount Rate: 0.75
-Date: 2014-10-01. Discount Rate: 0.75
-Date: 2014-11-01. Discount Rate: 0.75
-Date: 2014-12-01. Discount Rate: 0.75
-Date: 2015-01-01. Discount Rate: 0.75
-Date: 2015-02-01. Discount Rate: 0.75
-Date: 2015-03-01. Discount Rate: 0.75
-Date: 2015-04-01. Discount Rate: 0.75
-Date: 2015-05-01. Discount Rate: 0.75
-Date: 2015-06-01. Discount Rate: 0.75
-Date: 2015-07-01. Discount Rate: 0.75
-Date: 2015-08-01. Discount Rate: 0.75
-Date: 2015-09-01. Discount Rate: 0.75
-Date: 2015-10-01. Discount Rate: 0.75
-Date: 2015-11-01. Discount Rate: 0.75
-Date: 2015-12-01. Discount Rate: 1
-Date: 2016-01-01. Discount Rate: 1
-Date: 2016-02-01. Discount Rate: 1
-Date: 2016-03-01. Discount Rate: 1
-Date: 2016-04-01. Discount Rate: 1
-Date: 2016-05-01. Discount Rate: 1
-Date: 2016-06-01. Discount Rate: 1
-Date: 2016-07-01. Discount Rate: 1
-Date: 2016-08-01. Discount Rate: 1
-Date: 2016-09-01. Discount Rate: 1
-Date: 2016-10-01. Discount Rate: 1
-Date: 2016-11-01. Discount Rate: 1
-Date: 2016-12-01. Discount Rate: 1.25
-Date: 2017-01-01. Discount Rate: 1.25
-Date: 2017-02-01. Discount Rate: 1.25
-Date: 2017-03-01. Discount Rate: 1.5
-Date: 2017-04-01. Discount Rate: 1.5
+1954-07-010.8
+1954-08-011.22
+1954-09-011.06
+1954-10-010.85
+1954-11-010.83
+1954-12-011.28
+1955-01-011.39
+1955-02-011.29
+1955-03-011.35
+1955-04-011.43
+1955-05-011.43
+1955-06-011.64
+1955-07-011.68
+1955-08-011.96
+1955-09-012.18
+1955-10-012.24
+1955-11-012.35
+1955-12-012.48
+1956-01-012.45
+1956-02-012.5
+1956-03-012.5
+1956-04-012.62
+1956-05-012.75
+1956-06-012.71
+1956-07-012.75
+1956-08-012.73
+1956-09-012.95
+1956-10-012.96
+1956-11-012.88
+1956-12-012.94
+1957-01-012.84
+1957-02-013
+1957-03-012.96
+1957-04-013
+1957-05-013
+1957-06-013
+1957-07-012.99
+1957-08-013.24
+1957-09-013.47
+1957-10-013.5
+1957-11-013.28
+1957-12-012.98
+1958-01-012.72
+1958-02-011.67
+1958-03-011.2
+1958-04-011.26
+1958-05-010.63
+1958-06-010.93
+1958-07-010.68
+1958-08-011.53
+1958-09-011.76
+1958-10-011.8
+1958-11-012.27
+1958-12-012.42
+1959-01-012.48
+1959-02-012.43
+1959-03-012.8
+1959-04-012.96
+1959-05-012.9
+1959-06-013.39
+1959-07-013.47
+1959-08-013.5
+1959-09-013.76
+1959-10-013.98
+1959-11-014
+1959-12-013.99
+1960-01-013.99
+1960-02-013.97
+1960-03-013.84
+1960-04-013.92
+1960-05-013.85
+1960-06-013.32
+1960-07-013.23
+1960-08-012.98
+1960-09-012.6
+1960-10-012.47
+1960-11-012.44
+1960-12-011.98
+1961-01-011.45
+1961-02-012.54
+1961-03-012.02
+1961-04-011.49
+1961-05-011.98
+1961-06-011.73
+1961-07-011.17
+1961-08-012
+1961-09-011.88
+1961-10-012.26
+1961-11-012.61
+1961-12-012.33
+1962-01-012.15
+1962-02-012.37
+1962-03-012.85
+1962-04-012.78
+1962-05-012.36
+1962-06-012.68
+1962-07-012.71
+1962-08-012.93
+1962-09-012.9
+1962-10-012.9
+1962-11-012.94
+1962-12-012.93
+1963-01-012.92
+1963-02-013
+1963-03-012.98
+1963-04-012.9
+1963-05-013
+1963-06-012.99
+1963-07-013.02
+1963-08-013.49
+1963-09-013.48
+1963-10-013.5
+1963-11-013.48
+1963-12-013.38
+1964-01-013.48
+1964-02-013.48
+1964-03-013.43
+1964-04-013.47
+1964-05-013.5
+1964-06-013.5
+1964-07-013.42
+1964-08-013.5
+1964-09-013.45
+1964-10-013.36
+1964-11-013.52
+1964-12-013.85
+1965-01-013.9
+1965-02-013.98
+1965-03-014.04
+1965-04-014.09
+1965-05-014.1
+1965-06-014.04
+1965-07-014.09
+1965-08-014.12
+1965-09-014.01
+1965-10-014.08
+1965-11-014.1
+1965-12-014.32
+1966-01-014.42
+1966-02-014.6
+1966-03-014.65
+1966-04-014.67
+1966-05-014.9
+1966-06-015.17
+1966-07-015.3
+1966-08-015.53
+1966-09-015.4
+1966-10-015.53
+1966-11-015.76
+1966-12-015.4
+1967-01-014.94
+1967-02-015
+1967-03-014.53
+1967-04-014.05
+1967-05-013.94
+1967-06-013.98
+1967-07-013.79
+1967-08-013.9
+1967-09-013.99
+1967-10-013.88
+1967-11-014.13
+1967-12-014.51
+1968-01-014.6
+1968-02-014.71
+1968-03-015.05
+1968-04-015.76
+1968-05-016.11
+1968-06-016.07
+1968-07-016.02
+1968-08-016.03
+1968-09-015.78
+1968-10-015.91
+1968-11-015.82
+1968-12-016.02
+1969-01-016.3
+1969-02-016.61
+1969-03-016.79
+1969-04-017.41
+1969-05-018.67
+1969-06-018.9
+1969-07-018.61
+1969-08-019.19
+1969-09-019.15
+1969-10-019
+1969-11-018.85
+1969-12-018.97
+1970-01-018.98
+1970-02-018.98
+1970-03-017.76
+1970-04-018.1
+1970-05-017.94
+1970-06-017.6
+1970-07-017.21
+1970-08-016.61
+1970-09-016.29
+1970-10-016.2
+1970-11-015.6
+1970-12-014.9
+1971-01-014.14
+1971-02-013.72
+1971-03-013.71
+1971-04-014.15
+1971-05-014.63
+1971-06-014.91
+1971-07-015.31
+1971-08-015.56
+1971-09-015.55
+1971-10-015.2
+1971-11-014.91
+1971-12-014.14
+1972-01-013.5
+1972-02-013.29
+1972-03-013.83
+1972-04-014.17
+1972-05-014.27
+1972-06-014.46
+1972-07-014.55
+1972-08-014.8
+1972-09-014.87
+1972-10-015.04
+1972-11-015.06
+1972-12-015.33
+1973-01-015.94
+1973-02-016.58
+1973-03-017.09
+1973-04-017.12
+1973-05-017.84
+1973-06-018.49
+1973-07-0110.4
+1973-08-0110.5
+1973-09-0110.78
+1973-10-0110.01
+1973-11-0110.03
+1973-12-019.95
+1974-01-019.65
+1974-02-018.97
+1974-03-019.35
+1974-04-0110.51
+1974-05-0111.31
+1974-06-0111.93
+1974-07-0112.92
+1974-08-0112.01
+1974-09-0111.34
+1974-10-0110.06
+1974-11-019.45
+1974-12-018.53
+1975-01-017.13
+1975-02-016.24
+1975-03-015.54
+1975-04-015.49
+1975-05-015.22
+1975-06-015.55
+1975-07-016.1
+1975-08-016.14
+1975-09-016.24
+1975-10-015.82
+1975-11-015.22
+1975-12-015.2
+1976-01-014.87
+1976-02-014.77
+1976-03-014.84
+1976-04-014.82
+1976-05-015.29
+1976-06-015.48
+1976-07-015.31
+1976-08-015.29
+1976-09-015.25
+1976-10-015.02
+1976-11-014.95
+1976-12-014.65
+1977-01-014.61
+1977-02-014.68
+1977-03-014.69
+1977-04-014.73
+1977-05-015.35
+1977-06-015.39
+1977-07-015.42
+1977-08-015.9
+1977-09-016.14
+1977-10-016.47
+1977-11-016.51
+1977-12-016.56
+1978-01-016.7
+1978-02-016.78
+1978-03-016.79
+1978-04-016.89
+1978-05-017.36
+1978-06-017.6
+1978-07-017.81
+1978-08-018.04
+1978-09-018.45
+1978-10-018.96
+1978-11-019.76
+1978-12-0110.03
+1979-01-0110.07
+1979-02-0110.06
+1979-03-0110.09
+1979-04-0110.01
+1979-05-0110.24
+1979-06-0110.29
+1979-07-0110.47
+1979-08-0110.94
+1979-09-0111.43
+1979-10-0113.77
+1979-11-0113.18
+1979-12-0113.78
+1980-01-0113.82
+1980-02-0114.13
+1980-03-0117.19
+1980-04-0117.61
+1980-05-0110.98
+1980-06-019.47
+1980-07-019.03
+1980-08-019.61
+1980-09-0110.87
+1980-10-0112.81
+1980-11-0115.85
+1980-12-0118.9
+1981-01-0119.08
+1981-02-0115.93
+1981-03-0114.7
+1981-04-0115.72
+1981-05-0118.52
+1981-06-0119.1
+1981-07-0119.04
+1981-08-0117.82
+1981-09-0115.87
+1981-10-0115.08
+1981-11-0113.31
+1981-12-0112.37
+1982-01-0113.22
+1982-02-0114.78
+1982-03-0114.68
+1982-04-0114.94
+1982-05-0114.45
+1982-06-0114.15
+1982-07-0112.59
+1982-08-0110.12
+1982-09-0110.31
+1982-10-019.71
+1982-11-019.2
+1982-12-018.95
+1983-01-018.68
+1983-02-018.51
+1983-03-018.77
+1983-04-018.8
+1983-05-018.63
+1983-06-018.98
+1983-07-019.37
+1983-08-019.56
+1983-09-019.45
+1983-10-019.48
+1983-11-019.34
+1983-12-019.47
+1984-01-019.56
+1984-02-019.59
+1984-03-019.91
+1984-04-0110.29
+1984-05-0110.32
+1984-06-0111.06
+1984-07-0111.23
+1984-08-0111.64
+1984-09-0111.3
+1984-10-019.99
+1984-11-019.43
+1984-12-018.38
+1985-01-018.35
+1985-02-018.5
+1985-03-018.58
+1985-04-018.27
+1985-05-017.97
+1985-06-017.53
+1985-07-017.88
+1985-08-017.9
+1985-09-017.92
+1985-10-017.99
+1985-11-018.05
+1985-12-018.27
+1986-01-018.14
+1986-02-017.86
+1986-03-017.48
+1986-04-016.99
+1986-05-016.85
+1986-06-016.92
+1986-07-016.56
+1986-08-016.17
+1986-09-015.89
+1986-10-015.85
+1986-11-016.04
+1986-12-016.91
+1987-01-016.43
+1987-02-016.1
+1987-03-016.13
+1987-04-016.37
+1987-05-016.85
+1987-06-016.73
+1987-07-016.58
+1987-08-016.73
+1987-09-017.22
+1987-10-017.29
+1987-11-016.69
+1987-12-016.77
+1988-01-016.83
+1988-02-016.58
+1988-03-016.58
+1988-04-016.87
+1988-05-017.09
+1988-06-017.51
+1988-07-017.75
+1988-08-018.01
+1988-09-018.19
+1988-10-018.3
+1988-11-018.35
+1988-12-018.76
+1989-01-019.12
+1989-02-019.36
+1989-03-019.85
+1989-04-019.84
+1989-05-019.81
+1989-06-019.53
+1989-07-019.24
+1989-08-018.99
+1989-09-019.02
+1989-10-018.84
+1989-11-018.55
+1989-12-018.45
+1990-01-018.23
+1990-02-018.24
+1990-03-018.28
+1990-04-018.26
+1990-05-018.18
+1990-06-018.29
+1990-07-018.15
+1990-08-018.13
+1990-09-018.2
+1990-10-018.11
+1990-11-017.81
+1990-12-017.31
+1991-01-016.91
+1991-02-016.25
+1991-03-016.12
+1991-04-015.91
+1991-05-015.78
+1991-06-015.9
+1991-07-015.82
+1991-08-015.66
+1991-09-015.45
+1991-10-015.21
+1991-11-014.81
+1991-12-014.43
+1992-01-014.03
+1992-02-014.06
+1992-03-013.98
+1992-04-013.73
+1992-05-013.82
+1992-06-013.76
+1992-07-013.25
+1992-08-013.3
+1992-09-013.22
+1992-10-013.1
+1992-11-013.09
+1992-12-012.92
+1993-01-013.02
+1993-02-013.03
+1993-03-013.07
+1993-04-012.96
+1993-05-013
+1993-06-013.04
+1993-07-013.06
+1993-08-013.03
+1993-09-013.09
+1993-10-012.99
+1993-11-013.02
+1993-12-012.96
+1994-01-013.05
+1994-02-013.25
+1994-03-013.34
+1994-04-013.56
+1994-05-014.01
+1994-06-014.25
+1994-07-014.26
+1994-08-014.47
+1994-09-014.73
+1994-10-014.76
+1994-11-015.29
+1994-12-015.45
+1995-01-015.53
+1995-02-015.92
+1995-03-015.98
+1995-04-016.05
+1995-05-016.01
+1995-06-016
+1995-07-015.85
+1995-08-015.74
+1995-09-015.8
+1995-10-015.76
+1995-11-015.8
+1995-12-015.6
+1996-01-015.56
+1996-02-015.22
+1996-03-015.31
+1996-04-015.22
+1996-05-015.24
+1996-06-015.27
+1996-07-015.4
+1996-08-015.22
+1996-09-015.3
+1996-10-015.24
+1996-11-015.31
+1996-12-015.29
+1997-01-015.25
+1997-02-015.19
+1997-03-015.39
+1997-04-015.51
+1997-05-015.5
+1997-06-015.56
+1997-07-015.52
+1997-08-015.54
+1997-09-015.54
+1997-10-015.5
+1997-11-015.52
+1997-12-015.5
+1998-01-015.56
+1998-02-015.51
+1998-03-015.49
+1998-04-015.45
+1998-05-015.49
+1998-06-015.56
+1998-07-015.54
+1998-08-015.55
+1998-09-015.51
+1998-10-015.07
+1998-11-014.83
+1998-12-014.68
+1999-01-014.63
+1999-02-014.76
+1999-03-014.81
+1999-04-014.74
+1999-05-014.74
+1999-06-014.76
+1999-07-014.99
+1999-08-015.07
+1999-09-015.22
+1999-10-015.2
+1999-11-015.42
+1999-12-015.3
+2000-01-015.45
+2000-02-015.73
+2000-03-015.85
+2000-04-016.02
+2000-05-016.27
+2000-06-016.53
+2000-07-016.54
+2000-08-016.5
+2000-09-016.52
+2000-10-016.51
+2000-11-016.51
+2000-12-016.4
+2001-01-015.98
+2001-02-015.49
+2001-03-015.31
+2001-04-014.8
+2001-05-014.21
+2001-06-013.97
+2001-07-013.77
+2001-08-013.65
+2001-09-013.07
+2001-10-012.49
+2001-11-012.09
+2001-12-011.82
+2002-01-011.73
+2002-02-011.74
+2002-03-011.73
+2002-04-011.75
+2002-05-011.75
+2002-06-011.75
+2002-07-011.73
+2002-08-011.74
+2002-09-011.75
+2002-10-011.75
+2002-11-011.34
+2002-12-011.24
+2003-01-011.24
+2003-02-011.26
+2003-03-011.25
+2003-04-011.26
+2003-05-011.26
+2003-06-011.22
+2003-07-011.01
+2003-08-011.03
+2003-09-011.01
+2003-10-011.01
+2003-11-011
+2003-12-010.98
+2004-01-011
+2004-02-011.01
+2004-03-011
+2004-04-011
+2004-05-011
+2004-06-011.03
+2004-07-011.26
+2004-08-011.43
+2004-09-011.61
+2004-10-011.76
+2004-11-011.93
+2004-12-012.16
+2005-01-012.28
+2005-02-012.5
+2005-03-012.63
+2005-04-012.79
+2005-05-013
+2005-06-013.04
+2005-07-013.26
+2005-08-013.5
+2005-09-013.62
+2005-10-013.78
+2005-11-014
+2005-12-014.16
+2006-01-014.29
+2006-02-014.49
+2006-03-014.59
+2006-04-014.79
+2006-05-014.94
+2006-06-014.99
+2006-07-015.24
+2006-08-015.25
+2006-09-015.25
+2006-10-015.25
+2006-11-015.25
+2006-12-015.24
+2007-01-015.25
+2007-02-015.26
+2007-03-015.26
+2007-04-015.25
+2007-05-015.25
+2007-06-015.25
+2007-07-015.26
+2007-08-015.02
+2007-09-014.94
+2007-10-014.76
+2007-11-014.49
+2007-12-014.24
+2008-01-013.94
+2008-02-012.98
+2008-03-012.61
+2008-04-012.28
+2008-05-011.98
+2008-06-012
+2008-07-012.01
+2008-08-012
+2008-09-011.81
+2008-10-010.97
+2008-11-010.39
+2008-12-010.16
+2009-01-010.15
+2009-02-010.22
+2009-03-010.18
+2009-04-010.15
+2009-05-010.18
+2009-06-010.21
+2009-07-010.16
+2009-08-010.16
+2009-09-010.15
+2009-10-010.12
+2009-11-010.12
+2009-12-010.12
+2010-01-010.11
+2010-02-010.13
+2010-03-010.16
+2010-04-010.2
+2010-05-010.2
+2010-06-010.18
+2010-07-010.18
+2010-08-010.19
+2010-09-010.19
+2010-10-010.19
+2010-11-010.19
+2010-12-010.18
+2011-01-010.17
+2011-02-010.16
+2011-03-010.14
+2011-04-010.1
+2011-05-010.09
+2011-06-010.09
+2011-07-010.07
+2011-08-010.1
+2011-09-010.08
+2011-10-010.07
+2011-11-010.08
+2011-12-010.07
+2012-01-010.08
+2012-02-010.1
+2012-03-010.13
+2012-04-010.14
+2012-05-010.16
+2012-06-010.16
+2012-07-010.16
+2012-08-010.13
+2012-09-010.14
+2012-10-010.16
+2012-11-010.16
+2012-12-010.16
+2013-01-010.14
+2013-02-010.15
+2013-03-010.14
+2013-04-010.15
+2013-05-010.11
+2013-06-010.09
+2013-07-010.09
+2013-08-010.08
+2013-09-010.08
+2013-10-010.09
+2013-11-010.08
+2013-12-010.09
+2014-01-010.07
+2014-02-010.07
+2014-03-010.08
+2014-04-010.09
+2014-05-010.09
+2014-06-010.1
+2014-07-010.09
+2014-08-010.09
+2014-09-010.09
+2014-10-010.09
+2014-11-010.09
+2014-12-010.12
+2015-01-010.11
+2015-02-010.11
+2015-03-010.11
+2015-04-010.12
+2015-05-010.12
+2015-06-010.13
+2015-07-010.13
+2015-08-010.14
+2015-09-010.14
+2015-10-010.12
+2015-11-010.12
+2015-12-010.24
+2016-01-010.34
+2016-02-010.38
+2016-03-010.36
+2016-04-010.37
+2016-05-010.37
+2016-06-010.38
+2016-07-010.39
+2016-08-010.4
+2016-09-010.4
+2016-10-010.4
+2016-11-010.41
+2016-12-010.54
+2017-01-010.65
+2017-02-010.66
+2017-03-010.79
+2017-04-010.9
