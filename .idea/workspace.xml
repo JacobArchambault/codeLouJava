@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4896b96e-1cf1-4a2c-adf3-d639f288a346" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.~lock.result.csv#" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/App.java" afterDir="false" />
@@ -178,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564154474338</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Delete unused classes, TODO code.">
+      <created>1564157019187</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1564157019187</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,7 +216,8 @@
     <MESSAGE value="Achieve working project." />
     <MESSAGE value="Achieve data comparison. Checks all boxes." />
     <MESSAGE value="Add fourth case option. Fix floats." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add fourth case option. Fix floats." />
+    <MESSAGE value="Delete unused classes, TODO code." />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete unused classes, TODO code." />
   </component>
   <component name="masterDetails">
     <states>

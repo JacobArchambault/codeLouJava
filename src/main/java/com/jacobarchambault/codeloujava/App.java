@@ -53,20 +53,22 @@ public class App {
                 }
                 break;
             case 3:
+                pw.println("Date,Federal Funds Rate,Discount Rate");
                 for (String[] ffl : fedFunds) {
                     for (String[] drl : discountRate) {
                         // comparison code
                         if (ffl[0].equals(drl[0]) && Float.parseFloat(ffl[1]) > Float.parseFloat(drl[1]))
-                            pw.println("Date: " + ffl[0] + "," + " Federal funds rate: " + ffl[1] + " Discount Rate: " + drl [1]);
+                            pw.println(ffl[0] + "," + ffl[1] + "," + drl[1]);
                     }
                 }
                 break;
             case 4:
+                pw.println("Date,Federal Funds Rate,Discount Rate");
                 for (String[] ffl : fedFunds) {
                     for (String[] drl : discountRate) {
                         // comparison code
                         if (ffl[0].equals(drl[0]) && Float.parseFloat(ffl[1]) < Float.parseFloat(drl[1]))
-                            pw.println("Date: " + ffl[0] + "," + " Federal funds rate: " + ffl[1] + " Discount Rate: " + drl [1]);
+                            pw.println(ffl[0] + "," + ffl[1] + "," + drl [1]);
                     }
                 }
                 break;
