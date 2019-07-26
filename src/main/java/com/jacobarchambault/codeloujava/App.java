@@ -28,13 +28,14 @@ public class App {
         CSVReaderHeaderAware reader2 = new CSVReaderHeaderAware(new FileReader("INTDSRUSM193N.csv"));
 
 //        This creates a file writer and an output stream that will write to the file "result.csv"
-        FileOutputStream fos = new FileOutputStream("result.csv", true);
+        FileOutputStream fos = new FileOutputStream("result.csv", false);
         PrintWriter pw = new PrintWriter(fos);
 
 //        This code prints out the main menu to the console.
         System.out.println("Enter a number to choose an option:");
-        System.out.println("1. Print a list of months where the federal funds rate was greater than the federal reserve discount rate");
-        System.out.println("2. Print a list of months where the federal reserve discount rate was greater than the federal funds rate");
+        System.out.println("1. Print a list of months where the federal funds rate was above the recorded average");
+        System.out.println("2. Print a list of months where the federal reserve discount rate was below the recorded average");
+        System.out.println("3. Print a list of months where the federal funds rate was greater than the federal reserve discount rate");
         System.out.println("3. Exit program");
 
 //        Along with the code for the cases listed below, this code allows the user to choose an option from the menu.
@@ -46,21 +47,19 @@ public class App {
             case 1:
                 for (String[] nextLine : reader) {
                     // nextLine[] is an array of values from the line
-                    pw.println(nextLine[0] + nextLine[1]);
+                    if (Float.valueOf(nextLine[1]).floatValue() > 4.5) {
+                        pw.println(nextLine[0] + "," + nextLine[1]);
+                    }
                 }
-
                 System.out.println("Your file is ready! It is titled result.csv");
                 break;
             case 2:
                 for (String[] value : reader2) {
                     // nextLine2[] is an array of values from the line
-                    for (String[] strings : reader) {
-                        // nextLine[] is an array of values from the line
-                        if (strings[0] == strings[0]) {
-                            pw.println("Date: " + strings[0] + ". Federal Funds Rate: " + strings[1]);
-                        }
-//                    pw.println("Date: " + nextLine2[0] + ". Discount Rate: " + nextLine2[1]);
+                    if (Float.valueOf(value[1]).floatValue() < 4.6) {
+                        pw.println(value[0] + "," + value[1]);
                     }
+
                 }
                 System.out.println("Your file is ready! It is titled result.csv");
                 break;
