@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4896b96e-1cf1-4a2c-adf3-d639f288a346" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/App.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -191,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564161230286</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Delete unused parse exception">
+      <created>1564161352595</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1564161352595</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,7 +229,8 @@
     <MESSAGE value="Add fourth case option. Fix floats." />
     <MESSAGE value="Delete unused classes, TODO code." />
     <MESSAGE value="Make result.csv output cleaner, more uniform." />
-    <option name="LAST_COMMIT_MESSAGE" value="Make result.csv output cleaner, more uniform." />
+    <MESSAGE value="Delete unused parse exception" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete unused parse exception" />
   </component>
   <component name="masterDetails">
     <states>
