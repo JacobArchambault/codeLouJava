@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4896b96e-1cf1-4a2c-adf3-d639f288a346" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.~lock.INTDSRUSM193N.csv#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FEDFUNDS.csv" beforeDir="false" afterPath="$PROJECT_DIR$/FEDFUNDS.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INTDSRUSM193N.csv" beforeDir="false" afterPath="$PROJECT_DIR$/INTDSRUSM193N.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/DiscountRateReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/FundsRateReader.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564106728613</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add README.md">
+      <created>1564144184485</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1564144184490</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,7 +174,8 @@
     <MESSAGE value="Add DiscountRate and FundsRate pojos." />
     <MESSAGE value="Revert files" />
     <MESSAGE value="Achieve input/output stream" />
-    <option name="LAST_COMMIT_MESSAGE" value="Achieve input/output stream" />
+    <MESSAGE value="Add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add README.md" />
   </component>
   <component name="masterDetails">
     <states>
