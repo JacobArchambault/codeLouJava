@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4896b96e-1cf1-4a2c-adf3-d639f288a346" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jacobarchambault/codeloujava/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/App.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +45,10 @@
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.jacobarchambault.codeloujava" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -124,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564095602763</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Revert files">
+      <created>1564101329730</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564101329731</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,7 +159,8 @@
     <MESSAGE value="Add OpenCSV to pom.xml" />
     <MESSAGE value="Delete INTDSRUSM193N extra column" />
     <MESSAGE value="Add DiscountRate and FundsRate pojos." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add DiscountRate and FundsRate pojos." />
+    <MESSAGE value="Revert files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert files" />
   </component>
   <component name="masterDetails">
     <states>

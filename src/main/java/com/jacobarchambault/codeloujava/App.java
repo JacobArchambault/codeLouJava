@@ -2,15 +2,11 @@ package com.jacobarchambault.codeloujava;
 
 import com.opencsv.CSVIterator;
 import com.opencsv.CSVReader;
-import com.opencsv.CSVReaderHeaderAware;
-import com.opencsv.CSVWriter;
+import com.opencsv.bean.CsvToBeanBuilder;
 
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.StringWriter;
+import java.io.*;
 import java.util.Iterator;
 import java.util.List;
-import java.util.Map;
 import java.util.Scanner;
 
 public class App
@@ -29,18 +25,45 @@ public class App
 //    TODO 1.4: State any special requirements, dependencies, or steps to run the project
 
         CSVReader reader = new CSVReader(new FileReader("FEDFUNDS.csv"));
-        for (Iterator<String[]> it = reader.iterator(); it.hasNext(); ) {
-            String[] nextLine = it.next();
-            // nextLine[] is an array of values from the line
-            System.out.println(nextLine[0] + nextLine[1] + "etc...");
+        CSVReader reader2 = new CSVReader(new FileReader("INTDSRUSM193N.csv"));
+
+
+        FileOutputStream fos = new FileOutputStream("result.csv", false);
+        PrintWriter pw = new PrintWriter(fos);
+
+        System.out.println( "Enter a number to choose an option:" );
+        System.out.println("1. Print a list of months where the federal funds rate was greater than the federal reserve discount rate");
+        System.out.println("2. Print a list of months where the federal reserve discount rate was greater than the federal funds rate");
+        System.out.println("3. Exit program");
+
+        Scanner in = new Scanner(System.in);
+        int choice = in.nextInt();
+
+
+        switch (choice) {
+            case 1:
+                for (Iterator<String[]> it = reader.iterator(); it.hasNext(); ) {
+                    String[] nextLine = it.next();
+                    // nextLine[] is an array of values from the line
+                        pw.println("Date: " + nextLine[0] + ". Federal Funds Rate: " + nextLine[1]);
+                }
+                System.out.println("Your file is ready! It is titled result.csv");
+                break;
+            case 2:
+                for (Iterator<String[]> it2 = reader2.iterator(); it2.hasNext(); ) {
+                    String[] nextLine = it2.next();
+                    // nextLine[] is an array of values from the line
+                    pw.println("Date: " + nextLine[0] + ". Discount Rate: " + nextLine[1]);
+                }
+                System.out.println("Your file is ready! It is titled result.csv");
+                break;
+            default:
+                System.out.println("Exiting");
+                System.exit(0);
         }
 
-        CSVIterator iterator = new CSVIterator(new CSVReader(new FileReader("INTDSRUSM193N.csv")));
-        for (CSVIterator it = iterator; it.hasNext(); ) {
-            String[] nextLine = it.next();
-            // nextLine[] is an array of values from the line
-            System.out.println(nextLine[0] + nextLine[1] + "etc...");
-        }
+        pw.close();
+
 
 //        For reader.date = iterator.date && FEDFUNDS > Discount Rate
 //          print "Date: " + date + ". Federal Funds Rate: " + discountRate
@@ -50,10 +73,6 @@ public class App
 
 
 //        This code prints out the main menu to the console.
-        System.out.println( "Enter a number to choose an option:" );
-        System.out.println("1. Print a list of months where the federal reserve discount rate was greater than the federal funds rate");
-        System.out.println("2. Print a list of months where the federal funds rate was greater than the federal reserve discount rate");
-        System.out.println("3. Exit program");
 
 //    TODO 2: Find or create any two data sets of your choosing that your application will read from. Acceptable formats include JSON, CSV, txt, SQL database.
 //    TODO 2.1: Import all or a subset of this data
