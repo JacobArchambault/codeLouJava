@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class App {
-    public static void main(String[] args) throws IOException, ParseException, InputMismatchException {
+    public static void main(String[] args) throws IOException, InputMismatchException {
 
 //        This code creates two different CSVreaders to read our files, and lists of strings from those files
         CSVReaderHeaderAware reader = new CSVReaderHeaderAware(new FileReader("FEDFUNDS.csv"));
