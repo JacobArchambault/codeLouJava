@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4896b96e-1cf1-4a2c-adf3-d639f288a346" name="Default Changelist" comment="">
+    <list default="true" id="4896b96e-1cf1-4a2c-adf3-d639f288a346" name="Default Changelist" comment="Add fourth case option. Fix floats.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.~lock.INTDSRUSM193N.csv#" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jacobarchambault/codeloujava/App.java" afterDir="false" />
     </list>
@@ -165,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564147263026</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Achieve data comparison. Checks all boxes.">
+      <created>1564153481472</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1564153481472</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,7 +199,9 @@
     <MESSAGE value="Add README.md" />
     <MESSAGE value="Delete unused Reader classes" />
     <MESSAGE value="Achieve working project." />
-    <option name="LAST_COMMIT_MESSAGE" value="Achieve working project." />
+    <MESSAGE value="Achieve data comparison. Checks all boxes." />
+    <MESSAGE value="Add fourth case option. Fix floats." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add fourth case option. Fix floats." />
   </component>
   <component name="masterDetails">
     <states>

@@ -18,6 +18,8 @@ public class App {
 //        This code creates two different CSVreaders to read our files
         CSVReaderHeaderAware reader = new CSVReaderHeaderAware(new FileReader("FEDFUNDS.csv"));
         CSVReaderHeaderAware reader2 = new CSVReaderHeaderAware(new FileReader("INTDSRUSM193N.csv"));
+        List<String[]> fedFunds = reader.readAll();
+        List<String[]> discountRate = reader2.readAll();
 
 //        This creates a file writer and an output stream that will write to the file "result.csv"
         FileOutputStream fos = new FileOutputStream("result.csv", false);
@@ -28,7 +30,8 @@ public class App {
         System.out.println("1. Print a list of months where the federal funds rate was above the recorded average");
         System.out.println("2. Print a list of months where the federal reserve discount rate was below the recorded average");
         System.out.println("3. Print a list of months where the federal funds rate was greater than the federal reserve discount rate");
-        System.out.println("4. Exit program");
+        System.out.println("4. Print a list of months where the federal reserve discount rate was greater than the federal funds rate");
+        System.out.println("5. Exit program");
 
 //        Along with the code for the cases listed below, this code allows the user to choose an option from the menu.
         Scanner in = new Scanner(System.in);
@@ -38,7 +41,7 @@ public class App {
             case 1:
                 for (String[] nextLine : reader) {
                     // nextLine[] is an array of values from the line
-                    if (Float.valueOf(nextLine[1]).floatValue() > 4.5) {
+                    if (Float.parseFloat(nextLine[1]) > 4.5) {
                         pw.println(nextLine[0] + "," + nextLine[1]);
                     }
                 }
@@ -46,19 +49,26 @@ public class App {
                 break;
             case 2:
                 for (String[] value : reader2) {
-                    if (Float.valueOf(value[1]).floatValue() < 4.6) {
+                    if (Float.parseFloat(value[1]) < 4.6) {
                         pw.println(value[0] + "," + value[1]);
                     }
                 }
                 System.out.println("Your file is ready! It is titled result.csv");
                 break;
             case 3:
-                List<String[]> fedFunds = reader.readAll();
-                List<String[]> discountRate = reader2.readAll();
                 for (String[] ffl : fedFunds) {
                     for (String[] drl : discountRate) {
                         // comparison code
-                        if (ffl[0].equals(drl[0]) && Float.valueOf(ffl[1]).floatValue() > Float.valueOf(drl[1]).floatValue())
+                        if (ffl[0].equals(drl[0]) && Float.parseFloat(ffl[1]) > Float.parseFloat(drl[1]))
+                            pw.println("Date: " + ffl[0] + "," + " Federal funds rate: " + ffl[1] + " Discount Rate: " + drl [1]);
+                    }
+                }
+                break;
+            case 4:
+                for (String[] ffl : fedFunds) {
+                    for (String[] drl : discountRate) {
+                        // comparison code
+                        if (ffl[0].equals(drl[0]) && Float.parseFloat(ffl[1]) < Float.parseFloat(drl[1]))
                             pw.println("Date: " + ffl[0] + "," + " Federal funds rate: " + ffl[1] + " Discount Rate: " + drl [1]);
                     }
                 }
