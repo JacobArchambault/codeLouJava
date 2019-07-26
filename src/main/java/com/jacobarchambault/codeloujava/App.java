@@ -7,15 +7,14 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
+import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
 
 public class App {
-    public static void main(String[] args) throws IOException, ParseException {
+    public static void main(String[] args) throws IOException, ParseException, InputMismatchException {
 
-//        This code creates two different CSVreaders to read our files
+//        This code creates two different CSVreaders to read our files, and lists of strings from those files
         CSVReaderHeaderAware reader = new CSVReaderHeaderAware(new FileReader("FEDFUNDS.csv"));
         CSVReaderHeaderAware reader2 = new CSVReaderHeaderAware(new FileReader("INTDSRUSM193N.csv"));
         List<String[]> fedFunds = reader.readAll();
@@ -45,7 +44,6 @@ public class App {
                         pw.println(nextLine[0] + "," + nextLine[1]);
                     }
                 }
-                System.out.println("Your file is ready! It is titled result.csv");
                 break;
             case 2:
                 for (String[] value : reader2) {
@@ -53,7 +51,6 @@ public class App {
                         pw.println(value[0] + "," + value[1]);
                     }
                 }
-                System.out.println("Your file is ready! It is titled result.csv");
                 break;
             case 3:
                 for (String[] ffl : fedFunds) {
@@ -78,18 +75,8 @@ public class App {
                 System.exit(0);
         }
 
+        System.out.println("Your file is ready! It is titled result.csv");
+
         pw.close();
-
-//    TODO 2: Find or create any two data sets of your choosing that your application will read from. Acceptable formats include JSON, CSV, txt, SQL database.
-//    TODO 2.1: Import all or a subset of this data
-
-//    TODO 3: Application must write data TO A FILE distinct from those from which the information is imported
-
-//    TODO 4: The application must allow the user to interact with the data, e.g. via a command-line console application, e.g. 'press 1 to view ... press 2 to view ...'
-
-//    TODO 5: Your code must include comments
-
-//    TODO 6: Project must be in its own repository on Github
-
     }
 }
