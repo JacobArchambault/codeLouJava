@@ -1,27 +1,19 @@
 package com.jacobarchambault.codeloujava;
 
-import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderHeaderAware;
 
 import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.Iterator;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.List;
 import java.util.Scanner;
 
 public class App {
-    public static void main(String[] args) throws IOException {
-
-//    TODO 1: include README:
-//    TODO 1.1: Explain what problem you are solving or question you are answering
-//    TODO 1.2: Explain how you achieved your solution, including:
-//    TODO 1.2.1: background information necessary to understand the problem
-//    TODO 1.2.2: where your data came from
-//    TODO 1.2.3: what you used from your data
-//    TODO 1.2.4: what analysis(analyses) you applied to your data
-//    TODO 1.3: Include a glossary of terms if necessary
-//    TODO 1.4: State any special requirements, dependencies, or steps to run the project
+    public static void main(String[] args) throws IOException, ParseException {
 
 //        This code creates two different CSVreaders to read our files
         CSVReaderHeaderAware reader = new CSVReaderHeaderAware(new FileReader("FEDFUNDS.csv"));
@@ -36,12 +28,11 @@ public class App {
         System.out.println("1. Print a list of months where the federal funds rate was above the recorded average");
         System.out.println("2. Print a list of months where the federal reserve discount rate was below the recorded average");
         System.out.println("3. Print a list of months where the federal funds rate was greater than the federal reserve discount rate");
-        System.out.println("3. Exit program");
+        System.out.println("4. Exit program");
 
 //        Along with the code for the cases listed below, this code allows the user to choose an option from the menu.
         Scanner in = new Scanner(System.in);
         int choice = in.nextInt();
-
 
         switch (choice) {
             case 1:
@@ -55,13 +46,22 @@ public class App {
                 break;
             case 2:
                 for (String[] value : reader2) {
-                    // nextLine2[] is an array of values from the line
                     if (Float.valueOf(value[1]).floatValue() < 4.6) {
                         pw.println(value[0] + "," + value[1]);
                     }
-
                 }
                 System.out.println("Your file is ready! It is titled result.csv");
+                break;
+            case 3:
+                List<String[]> fedFunds = reader.readAll();
+                List<String[]> discountRate = reader2.readAll();
+                for (String[] ffl : fedFunds) {
+                    for (String[] drl : discountRate) {
+                        // comparison code
+                        if (ffl[0].equals(drl[0]) && Float.valueOf(ffl[1]).floatValue() > Float.valueOf(drl[1]).floatValue())
+                            pw.println("Date: " + ffl[0] + "," + " Federal funds rate: " + ffl[1] + " Discount Rate: " + drl [1]);
+                    }
+                }
                 break;
             default:
                 System.out.println("Exiting");
@@ -69,15 +69,6 @@ public class App {
         }
 
         pw.close();
-
-
-//        For reader.date == reader2.date && FEDFUNDS > Discount Rate
-//          print "Date: " + date + ". Federal Funds Rate: " + discountRate
-
-//        For reader.date == reader2.date && FEDFUNDS < Discount Rate
-//          print "Date: " + date + ". Federal Funds Rate: " + discountRate
-
-
 
 //    TODO 2: Find or create any two data sets of your choosing that your application will read from. Acceptable formats include JSON, CSV, txt, SQL database.
 //    TODO 2.1: Import all or a subset of this data
@@ -91,5 +82,4 @@ public class App {
 //    TODO 6: Project must be in its own repository on Github
 
     }
-
 }

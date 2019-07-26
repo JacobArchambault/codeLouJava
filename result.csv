@@ -1,387 +1,398 @@
-1954-07-01,1.5
-1954-08-01,1.5
-1954-09-01,1.5
-1954-10-01,1.5
-1954-11-01,1.5
-1954-12-01,1.5
-1955-01-01,1.5
-1955-02-01,1.5
-1955-03-01,1.5
-1955-04-01,1.63
-1955-05-01,1.75
-1955-06-01,1.75
-1955-07-01,1.75
-1955-08-01,1.97
-1955-09-01,2.18
-1955-10-01,2.25
-1955-11-01,2.36
-1955-12-01,2.5
-1956-01-01,2.5
-1956-02-01,2.5
-1956-03-01,2.5
-1956-04-01,2.65
-1956-05-01,2.75
-1956-06-01,2.75
-1956-07-01,2.75
-1956-08-01,2.81
-1956-09-01,3
-1956-10-01,3
-1956-11-01,3
-1956-12-01,3
-1957-01-01,3
-1957-02-01,3
-1957-03-01,3
-1957-04-01,3
-1957-05-01,3
-1957-06-01,3
-1957-07-01,3
-1957-08-01,3.15
-1957-09-01,3.5
-1957-10-01,3.5
-1957-11-01,3.23
-1957-12-01,3
-1958-01-01,2.94
-1958-02-01,2.75
-1958-03-01,2.35
-1958-04-01,2.03
-1958-05-01,1.75
-1958-06-01,1.75
-1958-07-01,1.75
-1958-08-01,1.75
-1958-09-01,1.91
-1958-10-01,2
-1958-11-01,2.4
-1958-12-01,2.5
-1959-01-01,2.5
-1959-02-01,2.5
-1959-03-01,2.92
-1959-04-01,3
-1959-05-01,3.05
-1959-06-01,3.5
-1959-07-01,3.5
-1959-08-01,3.5
-1959-09-01,3.83
-1959-10-01,4
-1959-11-01,4
-1959-12-01,4
-1960-01-01,4
-1960-02-01,4
-1960-03-01,4
-1960-04-01,4
-1960-05-01,4
-1960-06-01,3.65
-1960-07-01,3.5
-1960-08-01,3.18
-1960-09-01,3
-1960-10-01,3
-1960-11-01,3
-1960-12-01,3
-1961-01-01,3
-1961-02-01,3
-1961-03-01,3
-1961-04-01,3
-1961-05-01,3
-1961-06-01,3
-1961-07-01,3
-1961-08-01,3
-1961-09-01,3
-1961-10-01,3
-1961-11-01,3
-1961-12-01,3
-1962-01-01,3
-1962-02-01,3
-1962-03-01,3
-1962-04-01,3
-1962-05-01,3
-1962-06-01,3
-1962-07-01,3
-1962-08-01,3
-1962-09-01,3
-1962-10-01,3
-1962-11-01,3
-1962-12-01,3
-1963-01-01,3
-1963-02-01,3
-1963-03-01,3
-1963-04-01,3
-1963-05-01,3
-1963-06-01,3
-1963-07-01,3.24
-1963-08-01,3.5
-1963-09-01,3.5
-1963-10-01,3.5
-1963-11-01,3.5
-1963-12-01,3.5
-1964-01-01,3.5
-1964-02-01,3.5
-1964-03-01,3.5
-1964-04-01,3.5
-1964-05-01,3.5
-1964-06-01,3.5
-1964-07-01,3.5
-1964-08-01,3.5
-1964-09-01,3.5
-1964-10-01,3.5
-1964-11-01,3.62
-1964-12-01,4
-1965-01-01,4
-1965-02-01,4
-1965-03-01,4
-1965-04-01,4
-1965-05-01,4
-1965-06-01,4
-1965-07-01,4
-1965-08-01,4
-1965-09-01,4
-1965-10-01,4
-1965-11-01,4
-1965-12-01,4.42
-1966-01-01,4.5
-1966-02-01,4.5
-1966-03-01,4.5
-1966-04-01,4.5
-1966-05-01,4.5
-1966-06-01,4.5
-1966-07-01,4.5
-1966-08-01,4.5
-1966-09-01,4.5
-1966-10-01,4.5
-1966-11-01,4.5
-1966-12-01,4.5
-1967-01-01,4.5
-1967-02-01,4.5
-1967-03-01,4.5
-1967-04-01,4.1
-1967-05-01,4
-1967-06-01,4
-1967-07-01,4
-1967-08-01,4
-1967-09-01,4
-1967-10-01,4
-1967-11-01,4.18
-1967-12-01,4.5
-1968-01-01,4.5
-1968-02-01,4.5
-1972-01-01,4.5
-1972-02-01,4.5
-1972-03-01,4.5
-1972-04-01,4.5
-1972-05-01,4.5
-1972-06-01,4.5
-1972-07-01,4.5
-1972-08-01,4.5
-1972-09-01,4.5
-1972-10-01,4.5
-1972-11-01,4.5
-1972-12-01,4.5
-1991-11-01,4.58
-1991-12-01,4.11
-1992-01-01,3.5
-1992-02-01,3.5
-1992-03-01,3.5
-1992-04-01,3.5
-1992-05-01,3.5
-1992-06-01,3.5
-1992-07-01,3.02
-1992-08-01,3
-1992-09-01,3
-1992-10-01,3
-1992-11-01,3
-1992-12-01,3
-1993-01-01,3
-1993-02-01,3
-1993-03-01,3
-1993-04-01,3
-1993-05-01,3
-1993-06-01,3
-1993-07-01,3
-1993-08-01,3
-1993-09-01,3
-1993-10-01,3
-1993-11-01,3
-1993-12-01,3
-1994-01-01,3
-1994-02-01,3
-1994-03-01,3
-1994-04-01,3
-1994-05-01,3.24
-1994-06-01,3.5
-1994-07-01,3.5
-1994-08-01,3.76
-1994-09-01,4
-1994-10-01,4
-1994-11-01,4.4
-1998-12-01,4.5
-1999-01-01,4.5
-1999-02-01,4.5
-1999-03-01,4.5
-1999-04-01,4.5
-1999-05-01,4.5
-1999-06-01,4.5
-1999-07-01,4.5
-1999-08-01,4.56
-2001-04-01,4.28
-2001-05-01,3.73
-2001-06-01,3.47
-2001-07-01,3.25
-2001-08-01,3.16
-2001-09-01,2.77
-2001-10-01,2.02
-2001-11-01,1.58
-2001-12-01,1.33
-2002-01-01,1.25
-2002-02-01,1.25
-2002-03-01,1.25
-2002-04-01,1.25
-2002-05-01,1.25
-2002-06-01,1.25
-2002-07-01,1.25
-2002-08-01,1.25
-2002-09-01,1.25
-2002-10-01,1.25
-2002-11-01,0.83
-2002-12-01,0.75
-2003-01-01,2.25
-2003-02-01,2.25
-2003-03-01,2.25
-2003-04-01,2.25
-2003-05-01,2.25
-2003-06-01,2
-2003-07-01,2
-2003-08-01,2
-2003-09-01,2
-2003-10-01,2
-2003-11-01,2
-2003-12-01,2
-2004-01-01,2
-2004-02-01,2
-2004-03-01,2
-2004-04-01,2
-2004-05-01,2
-2004-06-01,2.25
-2004-07-01,2.25
-2004-08-01,2.5
-2004-09-01,2.75
-2004-10-01,2.75
-2004-11-01,3
-2004-12-01,3.25
-2005-01-01,3.25
-2005-02-01,3.5
-2005-03-01,3.75
-2005-04-01,3.75
-2005-05-01,4
-2005-06-01,4.25
-2005-07-01,4.25
-2005-08-01,4.5
-2008-01-01,3.5
-2008-02-01,3.5
-2008-03-01,2.5
-2008-04-01,2.25
-2008-05-01,2.25
-2008-06-01,2.25
-2008-07-01,2.25
-2008-08-01,2.25
-2008-09-01,2.25
-2008-10-01,1.25
-2008-11-01,1.25
-2008-12-01,0.5
-2009-01-01,0.5
-2009-02-01,0.5
-2009-03-01,0.5
-2009-04-01,0.5
-2009-05-01,0.5
-2009-06-01,0.5
-2009-07-01,0.5
-2009-08-01,0.5
-2009-09-01,0.5
-2009-10-01,0.5
-2009-11-01,0.5
-2009-12-01,0.5
-2010-01-01,0.5
-2010-02-01,0.75
-2010-03-01,0.75
-2010-04-01,0.75
-2010-05-01,0.75
-2010-06-01,0.75
-2010-07-01,0.75
-2010-08-01,0.75
-2010-09-01,0.75
-2010-10-01,0.75
-2010-11-01,0.75
-2010-12-01,0.75
-2011-01-01,0.75
-2011-02-01,0.75
-2011-03-01,0.75
-2011-04-01,0.75
-2011-05-01,0.75
-2011-06-01,0.75
-2011-07-01,0.75
-2011-08-01,0.75
-2011-09-01,0.75
-2011-10-01,0.75
-2011-11-01,0.75
-2011-12-01,0.75
-2012-01-01,0.75
-2012-02-01,0.75
-2012-03-01,0.75
-2012-04-01,0.75
-2012-05-01,0.75
-2012-06-01,0.75
-2012-07-01,0.75
-2012-08-01,0.75
-2012-09-01,0.75
-2012-10-01,0.75
-2012-11-01,0.75
-2012-12-01,0.75
-2013-01-01,0.75
-2013-02-01,0.75
-2013-03-01,0.75
-2013-04-01,0.75
-2013-05-01,0.75
-2013-06-01,0.75
-2013-07-01,0.75
-2013-08-01,0.75
-2013-09-01,0.75
-2013-10-01,0.75
-2013-11-01,0.75
-2013-12-01,0.75
-2014-01-01,0.75
-2014-02-01,0.75
-2014-03-01,0.75
-2014-04-01,0.75
-2014-05-01,0.75
-2014-06-01,0.75
-2014-07-01,0.75
-2014-08-01,0.75
-2014-09-01,0.75
-2014-10-01,0.75
-2014-11-01,0.75
-2014-12-01,0.75
-2015-01-01,0.75
-2015-02-01,0.75
-2015-03-01,0.75
-2015-04-01,0.75
-2015-05-01,0.75
-2015-06-01,0.75
-2015-07-01,0.75
-2015-08-01,0.75
-2015-09-01,0.75
-2015-10-01,0.75
-2015-11-01,0.75
-2015-12-01,1
-2016-01-01,1
-2016-02-01,1
-2016-03-01,1
-2016-04-01,1
-2016-05-01,1
-2016-06-01,1
-2016-07-01,1
-2016-08-01,1
-2016-09-01,1
-2016-10-01,1
-2016-11-01,1
-2016-12-01,1.25
-2017-01-01,1.25
-2017-02-01,1.25
-2017-03-01,1.5
-2017-04-01,1.5
+Date: 1957-08-01, Federal funds rate: 3.24 Discount Rate: 3.15
+Date: 1957-11-01, Federal funds rate: 3.28 Discount Rate: 3.23
+Date: 1965-03-01, Federal funds rate: 4.04 Discount Rate: 4
+Date: 1965-04-01, Federal funds rate: 4.09 Discount Rate: 4
+Date: 1965-05-01, Federal funds rate: 4.1 Discount Rate: 4
+Date: 1965-06-01, Federal funds rate: 4.04 Discount Rate: 4
+Date: 1965-07-01, Federal funds rate: 4.09 Discount Rate: 4
+Date: 1965-08-01, Federal funds rate: 4.12 Discount Rate: 4
+Date: 1965-09-01, Federal funds rate: 4.01 Discount Rate: 4
+Date: 1965-10-01, Federal funds rate: 4.08 Discount Rate: 4
+Date: 1965-11-01, Federal funds rate: 4.1 Discount Rate: 4
+Date: 1966-02-01, Federal funds rate: 4.6 Discount Rate: 4.5
+Date: 1966-03-01, Federal funds rate: 4.65 Discount Rate: 4.5
+Date: 1966-04-01, Federal funds rate: 4.67 Discount Rate: 4.5
+Date: 1966-05-01, Federal funds rate: 4.9 Discount Rate: 4.5
+Date: 1966-06-01, Federal funds rate: 5.17 Discount Rate: 4.5
+Date: 1966-07-01, Federal funds rate: 5.3 Discount Rate: 4.5
+Date: 1966-08-01, Federal funds rate: 5.53 Discount Rate: 4.5
+Date: 1966-09-01, Federal funds rate: 5.4 Discount Rate: 4.5
+Date: 1966-10-01, Federal funds rate: 5.53 Discount Rate: 4.5
+Date: 1966-11-01, Federal funds rate: 5.76 Discount Rate: 4.5
+Date: 1966-12-01, Federal funds rate: 5.4 Discount Rate: 4.5
+Date: 1967-01-01, Federal funds rate: 4.94 Discount Rate: 4.5
+Date: 1967-02-01, Federal funds rate: 5 Discount Rate: 4.5
+Date: 1967-03-01, Federal funds rate: 4.53 Discount Rate: 4.5
+Date: 1967-12-01, Federal funds rate: 4.51 Discount Rate: 4.5
+Date: 1968-01-01, Federal funds rate: 4.6 Discount Rate: 4.5
+Date: 1968-02-01, Federal funds rate: 4.71 Discount Rate: 4.5
+Date: 1968-03-01, Federal funds rate: 5.05 Discount Rate: 4.66
+Date: 1968-04-01, Federal funds rate: 5.76 Discount Rate: 5.2
+Date: 1968-05-01, Federal funds rate: 6.11 Discount Rate: 5.5
+Date: 1968-06-01, Federal funds rate: 6.07 Discount Rate: 5.5
+Date: 1968-07-01, Federal funds rate: 6.02 Discount Rate: 5.5
+Date: 1968-08-01, Federal funds rate: 6.03 Discount Rate: 5.48
+Date: 1968-09-01, Federal funds rate: 5.78 Discount Rate: 5.25
+Date: 1968-10-01, Federal funds rate: 5.91 Discount Rate: 5.25
+Date: 1968-11-01, Federal funds rate: 5.82 Discount Rate: 5.25
+Date: 1968-12-01, Federal funds rate: 6.02 Discount Rate: 5.36
+Date: 1969-01-01, Federal funds rate: 6.3 Discount Rate: 5.5
+Date: 1969-02-01, Federal funds rate: 6.61 Discount Rate: 5.5
+Date: 1969-03-01, Federal funds rate: 6.79 Discount Rate: 5.5
+Date: 1969-04-01, Federal funds rate: 7.41 Discount Rate: 5.95
+Date: 1969-05-01, Federal funds rate: 8.67 Discount Rate: 6
+Date: 1969-06-01, Federal funds rate: 8.9 Discount Rate: 6
+Date: 1969-07-01, Federal funds rate: 8.61 Discount Rate: 6
+Date: 1969-08-01, Federal funds rate: 9.19 Discount Rate: 6
+Date: 1969-09-01, Federal funds rate: 9.15 Discount Rate: 6
+Date: 1969-10-01, Federal funds rate: 9 Discount Rate: 6
+Date: 1969-11-01, Federal funds rate: 8.85 Discount Rate: 6
+Date: 1969-12-01, Federal funds rate: 8.97 Discount Rate: 6
+Date: 1970-01-01, Federal funds rate: 8.98 Discount Rate: 6
+Date: 1970-02-01, Federal funds rate: 8.98 Discount Rate: 6
+Date: 1970-03-01, Federal funds rate: 7.76 Discount Rate: 6
+Date: 1970-04-01, Federal funds rate: 8.1 Discount Rate: 6
+Date: 1970-05-01, Federal funds rate: 7.94 Discount Rate: 6
+Date: 1970-06-01, Federal funds rate: 7.6 Discount Rate: 6
+Date: 1970-07-01, Federal funds rate: 7.21 Discount Rate: 6
+Date: 1970-08-01, Federal funds rate: 6.61 Discount Rate: 6
+Date: 1970-09-01, Federal funds rate: 6.29 Discount Rate: 6
+Date: 1970-10-01, Federal funds rate: 6.2 Discount Rate: 6
+Date: 1971-06-01, Federal funds rate: 4.91 Discount Rate: 4.75
+Date: 1971-07-01, Federal funds rate: 5.31 Discount Rate: 4.88
+Date: 1971-08-01, Federal funds rate: 5.56 Discount Rate: 5
+Date: 1971-09-01, Federal funds rate: 5.55 Discount Rate: 5
+Date: 1971-10-01, Federal funds rate: 5.2 Discount Rate: 5
+Date: 1971-11-01, Federal funds rate: 4.91 Discount Rate: 4.9
+Date: 1972-07-01, Federal funds rate: 4.55 Discount Rate: 4.5
+Date: 1972-08-01, Federal funds rate: 4.8 Discount Rate: 4.5
+Date: 1972-09-01, Federal funds rate: 4.87 Discount Rate: 4.5
+Date: 1972-10-01, Federal funds rate: 5.04 Discount Rate: 4.5
+Date: 1972-11-01, Federal funds rate: 5.06 Discount Rate: 4.5
+Date: 1972-12-01, Federal funds rate: 5.33 Discount Rate: 4.5
+Date: 1973-01-01, Federal funds rate: 5.94 Discount Rate: 4.77
+Date: 1973-02-01, Federal funds rate: 6.58 Discount Rate: 5.05
+Date: 1973-03-01, Federal funds rate: 7.09 Discount Rate: 5.5
+Date: 1973-04-01, Federal funds rate: 7.12 Discount Rate: 5.5
+Date: 1973-05-01, Federal funds rate: 7.84 Discount Rate: 5.9
+Date: 1973-06-01, Federal funds rate: 8.49 Discount Rate: 6.33
+Date: 1973-07-01, Federal funds rate: 10.4 Discount Rate: 6.98
+Date: 1973-08-01, Federal funds rate: 10.5 Discount Rate: 7.29
+Date: 1973-09-01, Federal funds rate: 10.78 Discount Rate: 7.5
+Date: 1973-10-01, Federal funds rate: 10.01 Discount Rate: 7.5
+Date: 1973-11-01, Federal funds rate: 10.03 Discount Rate: 7.5
+Date: 1973-12-01, Federal funds rate: 9.95 Discount Rate: 7.5
+Date: 1974-01-01, Federal funds rate: 9.65 Discount Rate: 7.5
+Date: 1974-02-01, Federal funds rate: 8.97 Discount Rate: 7.5
+Date: 1974-03-01, Federal funds rate: 9.35 Discount Rate: 7.5
+Date: 1974-04-01, Federal funds rate: 10.51 Discount Rate: 7.6
+Date: 1974-05-01, Federal funds rate: 11.31 Discount Rate: 8
+Date: 1974-06-01, Federal funds rate: 11.93 Discount Rate: 8
+Date: 1974-07-01, Federal funds rate: 12.92 Discount Rate: 8
+Date: 1974-08-01, Federal funds rate: 12.01 Discount Rate: 8
+Date: 1974-09-01, Federal funds rate: 11.34 Discount Rate: 8
+Date: 1974-10-01, Federal funds rate: 10.06 Discount Rate: 8
+Date: 1974-11-01, Federal funds rate: 9.45 Discount Rate: 8
+Date: 1974-12-01, Federal funds rate: 8.53 Discount Rate: 7.81
+Date: 1975-07-01, Federal funds rate: 6.1 Discount Rate: 6
+Date: 1975-08-01, Federal funds rate: 6.14 Discount Rate: 6
+Date: 1975-09-01, Federal funds rate: 6.24 Discount Rate: 6
+Date: 1977-05-01, Federal funds rate: 5.35 Discount Rate: 5.25
+Date: 1977-06-01, Federal funds rate: 5.39 Discount Rate: 5.25
+Date: 1977-07-01, Federal funds rate: 5.42 Discount Rate: 5.25
+Date: 1977-08-01, Federal funds rate: 5.9 Discount Rate: 5.27
+Date: 1977-09-01, Federal funds rate: 6.14 Discount Rate: 5.75
+Date: 1977-10-01, Federal funds rate: 6.47 Discount Rate: 5.8
+Date: 1977-11-01, Federal funds rate: 6.51 Discount Rate: 6
+Date: 1977-12-01, Federal funds rate: 6.56 Discount Rate: 6
+Date: 1978-01-01, Federal funds rate: 6.7 Discount Rate: 6.37
+Date: 1978-02-01, Federal funds rate: 6.78 Discount Rate: 6.5
+Date: 1978-03-01, Federal funds rate: 6.79 Discount Rate: 6.5
+Date: 1978-04-01, Federal funds rate: 6.89 Discount Rate: 6.5
+Date: 1978-05-01, Federal funds rate: 7.36 Discount Rate: 6.84
+Date: 1978-06-01, Federal funds rate: 7.6 Discount Rate: 7
+Date: 1978-07-01, Federal funds rate: 7.81 Discount Rate: 7.23
+Date: 1978-08-01, Federal funds rate: 8.04 Discount Rate: 7.43
+Date: 1978-09-01, Federal funds rate: 8.45 Discount Rate: 7.83
+Date: 1978-10-01, Federal funds rate: 8.96 Discount Rate: 8.26
+Date: 1978-11-01, Federal funds rate: 9.76 Discount Rate: 9.5
+Date: 1978-12-01, Federal funds rate: 10.03 Discount Rate: 9.5
+Date: 1979-01-01, Federal funds rate: 10.07 Discount Rate: 9.5
+Date: 1979-02-01, Federal funds rate: 10.06 Discount Rate: 9.5
+Date: 1979-03-01, Federal funds rate: 10.09 Discount Rate: 9.5
+Date: 1979-04-01, Federal funds rate: 10.01 Discount Rate: 9.5
+Date: 1979-05-01, Federal funds rate: 10.24 Discount Rate: 9.5
+Date: 1979-06-01, Federal funds rate: 10.29 Discount Rate: 9.5
+Date: 1979-07-01, Federal funds rate: 10.47 Discount Rate: 9.69
+Date: 1979-08-01, Federal funds rate: 10.94 Discount Rate: 10.24
+Date: 1979-09-01, Federal funds rate: 11.43 Discount Rate: 10.7
+Date: 1979-10-01, Federal funds rate: 13.77 Discount Rate: 11.77
+Date: 1979-11-01, Federal funds rate: 13.18 Discount Rate: 12
+Date: 1979-12-01, Federal funds rate: 13.78 Discount Rate: 12
+Date: 1980-01-01, Federal funds rate: 13.82 Discount Rate: 12
+Date: 1980-02-01, Federal funds rate: 14.13 Discount Rate: 12.52
+Date: 1980-03-01, Federal funds rate: 17.19 Discount Rate: 13
+Date: 1980-04-01, Federal funds rate: 17.61 Discount Rate: 13
+Date: 1980-09-01, Federal funds rate: 10.87 Discount Rate: 10.17
+Date: 1980-10-01, Federal funds rate: 12.81 Discount Rate: 11
+Date: 1980-11-01, Federal funds rate: 15.85 Discount Rate: 11.47
+Date: 1980-12-01, Federal funds rate: 18.9 Discount Rate: 12.87
+Date: 1981-01-01, Federal funds rate: 19.08 Discount Rate: 13
+Date: 1981-02-01, Federal funds rate: 15.93 Discount Rate: 13
+Date: 1981-03-01, Federal funds rate: 14.7 Discount Rate: 13
+Date: 1981-04-01, Federal funds rate: 15.72 Discount Rate: 13
+Date: 1981-05-01, Federal funds rate: 18.52 Discount Rate: 13.87
+Date: 1981-06-01, Federal funds rate: 19.1 Discount Rate: 14
+Date: 1981-07-01, Federal funds rate: 19.04 Discount Rate: 14
+Date: 1981-08-01, Federal funds rate: 17.82 Discount Rate: 14
+Date: 1981-09-01, Federal funds rate: 15.87 Discount Rate: 14
+Date: 1981-10-01, Federal funds rate: 15.08 Discount Rate: 14
+Date: 1981-11-01, Federal funds rate: 13.31 Discount Rate: 13.03
+Date: 1981-12-01, Federal funds rate: 12.37 Discount Rate: 12.1
+Date: 1982-01-01, Federal funds rate: 13.22 Discount Rate: 12
+Date: 1982-02-01, Federal funds rate: 14.78 Discount Rate: 12
+Date: 1982-03-01, Federal funds rate: 14.68 Discount Rate: 12
+Date: 1982-04-01, Federal funds rate: 14.94 Discount Rate: 12
+Date: 1982-05-01, Federal funds rate: 14.45 Discount Rate: 12
+Date: 1982-06-01, Federal funds rate: 14.15 Discount Rate: 12
+Date: 1982-07-01, Federal funds rate: 12.59 Discount Rate: 11.81
+Date: 1982-09-01, Federal funds rate: 10.31 Discount Rate: 10
+Date: 1982-10-01, Federal funds rate: 9.71 Discount Rate: 9.68
+Date: 1982-12-01, Federal funds rate: 8.95 Discount Rate: 8.73
+Date: 1983-01-01, Federal funds rate: 8.68 Discount Rate: 8.5
+Date: 1983-02-01, Federal funds rate: 8.51 Discount Rate: 8.5
+Date: 1983-03-01, Federal funds rate: 8.77 Discount Rate: 8.5
+Date: 1983-04-01, Federal funds rate: 8.8 Discount Rate: 8.5
+Date: 1983-05-01, Federal funds rate: 8.63 Discount Rate: 8.5
+Date: 1983-06-01, Federal funds rate: 8.98 Discount Rate: 8.5
+Date: 1983-07-01, Federal funds rate: 9.37 Discount Rate: 8.5
+Date: 1983-08-01, Federal funds rate: 9.56 Discount Rate: 8.5
+Date: 1983-09-01, Federal funds rate: 9.45 Discount Rate: 8.5
+Date: 1983-10-01, Federal funds rate: 9.48 Discount Rate: 8.5
+Date: 1983-11-01, Federal funds rate: 9.34 Discount Rate: 8.5
+Date: 1983-12-01, Federal funds rate: 9.47 Discount Rate: 8.5
+Date: 1984-01-01, Federal funds rate: 9.56 Discount Rate: 8.5
+Date: 1984-02-01, Federal funds rate: 9.59 Discount Rate: 8.5
+Date: 1984-03-01, Federal funds rate: 9.91 Discount Rate: 8.5
+Date: 1984-04-01, Federal funds rate: 10.29 Discount Rate: 8.87
+Date: 1984-05-01, Federal funds rate: 10.32 Discount Rate: 9
+Date: 1984-06-01, Federal funds rate: 11.06 Discount Rate: 9
+Date: 1984-07-01, Federal funds rate: 11.23 Discount Rate: 9
+Date: 1984-08-01, Federal funds rate: 11.64 Discount Rate: 9
+Date: 1984-09-01, Federal funds rate: 11.3 Discount Rate: 9
+Date: 1984-10-01, Federal funds rate: 9.99 Discount Rate: 9
+Date: 1984-11-01, Federal funds rate: 9.43 Discount Rate: 8.83
+Date: 1984-12-01, Federal funds rate: 8.38 Discount Rate: 8.37
+Date: 1985-01-01, Federal funds rate: 8.35 Discount Rate: 8
+Date: 1985-02-01, Federal funds rate: 8.5 Discount Rate: 8
+Date: 1985-03-01, Federal funds rate: 8.58 Discount Rate: 8
+Date: 1985-04-01, Federal funds rate: 8.27 Discount Rate: 8
+Date: 1985-05-01, Federal funds rate: 7.97 Discount Rate: 7.81
+Date: 1985-06-01, Federal funds rate: 7.53 Discount Rate: 7.5
+Date: 1985-07-01, Federal funds rate: 7.88 Discount Rate: 7.5
+Date: 1985-08-01, Federal funds rate: 7.9 Discount Rate: 7.5
+Date: 1985-09-01, Federal funds rate: 7.92 Discount Rate: 7.5
+Date: 1985-10-01, Federal funds rate: 7.99 Discount Rate: 7.5
+Date: 1985-11-01, Federal funds rate: 8.05 Discount Rate: 7.5
+Date: 1985-12-01, Federal funds rate: 8.27 Discount Rate: 7.5
+Date: 1986-01-01, Federal funds rate: 8.14 Discount Rate: 7.5
+Date: 1986-02-01, Federal funds rate: 7.86 Discount Rate: 7.5
+Date: 1986-03-01, Federal funds rate: 7.48 Discount Rate: 7.1
+Date: 1986-04-01, Federal funds rate: 6.99 Discount Rate: 6.83
+Date: 1986-05-01, Federal funds rate: 6.85 Discount Rate: 6.5
+Date: 1986-06-01, Federal funds rate: 6.92 Discount Rate: 6.5
+Date: 1986-07-01, Federal funds rate: 6.56 Discount Rate: 6.16
+Date: 1986-08-01, Federal funds rate: 6.17 Discount Rate: 5.82
+Date: 1986-09-01, Federal funds rate: 5.89 Discount Rate: 5.5
+Date: 1986-10-01, Federal funds rate: 5.85 Discount Rate: 5.5
+Date: 1986-11-01, Federal funds rate: 6.04 Discount Rate: 5.5
+Date: 1986-12-01, Federal funds rate: 6.91 Discount Rate: 5.5
+Date: 1987-01-01, Federal funds rate: 6.43 Discount Rate: 5.5
+Date: 1987-02-01, Federal funds rate: 6.1 Discount Rate: 5.5
+Date: 1987-03-01, Federal funds rate: 6.13 Discount Rate: 5.5
+Date: 1987-04-01, Federal funds rate: 6.37 Discount Rate: 5.5
+Date: 1987-05-01, Federal funds rate: 6.85 Discount Rate: 5.5
+Date: 1987-06-01, Federal funds rate: 6.73 Discount Rate: 5.5
+Date: 1987-07-01, Federal funds rate: 6.58 Discount Rate: 5.5
+Date: 1987-08-01, Federal funds rate: 6.73 Discount Rate: 5.5
+Date: 1987-09-01, Federal funds rate: 7.22 Discount Rate: 5.95
+Date: 1987-10-01, Federal funds rate: 7.29 Discount Rate: 6
+Date: 1987-11-01, Federal funds rate: 6.69 Discount Rate: 6
+Date: 1987-12-01, Federal funds rate: 6.77 Discount Rate: 6
+Date: 1988-01-01, Federal funds rate: 6.83 Discount Rate: 6
+Date: 1988-02-01, Federal funds rate: 6.58 Discount Rate: 6
+Date: 1988-03-01, Federal funds rate: 6.58 Discount Rate: 6
+Date: 1988-04-01, Federal funds rate: 6.87 Discount Rate: 6
+Date: 1988-05-01, Federal funds rate: 7.09 Discount Rate: 6
+Date: 1988-06-01, Federal funds rate: 7.51 Discount Rate: 6
+Date: 1988-07-01, Federal funds rate: 7.75 Discount Rate: 6
+Date: 1988-08-01, Federal funds rate: 8.01 Discount Rate: 6.37
+Date: 1988-09-01, Federal funds rate: 8.19 Discount Rate: 6.5
+Date: 1988-10-01, Federal funds rate: 8.3 Discount Rate: 6.5
+Date: 1988-11-01, Federal funds rate: 8.35 Discount Rate: 6.5
+Date: 1988-12-01, Federal funds rate: 8.76 Discount Rate: 6.5
+Date: 1989-01-01, Federal funds rate: 9.12 Discount Rate: 6.5
+Date: 1989-02-01, Federal funds rate: 9.36 Discount Rate: 6.59
+Date: 1989-03-01, Federal funds rate: 9.85 Discount Rate: 7
+Date: 1989-04-01, Federal funds rate: 9.84 Discount Rate: 7
+Date: 1989-05-01, Federal funds rate: 9.81 Discount Rate: 7
+Date: 1989-06-01, Federal funds rate: 9.53 Discount Rate: 7
+Date: 1989-07-01, Federal funds rate: 9.24 Discount Rate: 7
+Date: 1989-08-01, Federal funds rate: 8.99 Discount Rate: 7
+Date: 1989-09-01, Federal funds rate: 9.02 Discount Rate: 7
+Date: 1989-10-01, Federal funds rate: 8.84 Discount Rate: 7
+Date: 1989-11-01, Federal funds rate: 8.55 Discount Rate: 7
+Date: 1989-12-01, Federal funds rate: 8.45 Discount Rate: 7
+Date: 1990-01-01, Federal funds rate: 8.23 Discount Rate: 7
+Date: 1990-02-01, Federal funds rate: 8.24 Discount Rate: 7
+Date: 1990-03-01, Federal funds rate: 8.28 Discount Rate: 7
+Date: 1990-04-01, Federal funds rate: 8.26 Discount Rate: 7
+Date: 1990-05-01, Federal funds rate: 8.18 Discount Rate: 7
+Date: 1990-06-01, Federal funds rate: 8.29 Discount Rate: 7
+Date: 1990-07-01, Federal funds rate: 8.15 Discount Rate: 7
+Date: 1990-08-01, Federal funds rate: 8.13 Discount Rate: 7
+Date: 1990-09-01, Federal funds rate: 8.2 Discount Rate: 7
+Date: 1990-10-01, Federal funds rate: 8.11 Discount Rate: 7
+Date: 1990-11-01, Federal funds rate: 7.81 Discount Rate: 7
+Date: 1990-12-01, Federal funds rate: 7.31 Discount Rate: 6.79
+Date: 1991-01-01, Federal funds rate: 6.91 Discount Rate: 6.5
+Date: 1991-02-01, Federal funds rate: 6.25 Discount Rate: 6
+Date: 1991-03-01, Federal funds rate: 6.12 Discount Rate: 6
+Date: 1991-05-01, Federal funds rate: 5.78 Discount Rate: 5.5
+Date: 1991-06-01, Federal funds rate: 5.9 Discount Rate: 5.5
+Date: 1991-07-01, Federal funds rate: 5.82 Discount Rate: 5.5
+Date: 1991-08-01, Federal funds rate: 5.66 Discount Rate: 5.5
+Date: 1991-09-01, Federal funds rate: 5.45 Discount Rate: 5.2
+Date: 1991-10-01, Federal funds rate: 5.21 Discount Rate: 5
+Date: 1991-11-01, Federal funds rate: 4.81 Discount Rate: 4.58
+Date: 1991-12-01, Federal funds rate: 4.43 Discount Rate: 4.11
+Date: 1992-01-01, Federal funds rate: 4.03 Discount Rate: 3.5
+Date: 1992-02-01, Federal funds rate: 4.06 Discount Rate: 3.5
+Date: 1992-03-01, Federal funds rate: 3.98 Discount Rate: 3.5
+Date: 1992-04-01, Federal funds rate: 3.73 Discount Rate: 3.5
+Date: 1992-05-01, Federal funds rate: 3.82 Discount Rate: 3.5
+Date: 1992-06-01, Federal funds rate: 3.76 Discount Rate: 3.5
+Date: 1992-07-01, Federal funds rate: 3.25 Discount Rate: 3.02
+Date: 1992-08-01, Federal funds rate: 3.3 Discount Rate: 3
+Date: 1992-09-01, Federal funds rate: 3.22 Discount Rate: 3
+Date: 1992-10-01, Federal funds rate: 3.1 Discount Rate: 3
+Date: 1992-11-01, Federal funds rate: 3.09 Discount Rate: 3
+Date: 1993-01-01, Federal funds rate: 3.02 Discount Rate: 3
+Date: 1993-02-01, Federal funds rate: 3.03 Discount Rate: 3
+Date: 1993-03-01, Federal funds rate: 3.07 Discount Rate: 3
+Date: 1993-06-01, Federal funds rate: 3.04 Discount Rate: 3
+Date: 1993-07-01, Federal funds rate: 3.06 Discount Rate: 3
+Date: 1993-08-01, Federal funds rate: 3.03 Discount Rate: 3
+Date: 1993-09-01, Federal funds rate: 3.09 Discount Rate: 3
+Date: 1993-11-01, Federal funds rate: 3.02 Discount Rate: 3
+Date: 1994-01-01, Federal funds rate: 3.05 Discount Rate: 3
+Date: 1994-02-01, Federal funds rate: 3.25 Discount Rate: 3
+Date: 1994-03-01, Federal funds rate: 3.34 Discount Rate: 3
+Date: 1994-04-01, Federal funds rate: 3.56 Discount Rate: 3
+Date: 1994-05-01, Federal funds rate: 4.01 Discount Rate: 3.24
+Date: 1994-06-01, Federal funds rate: 4.25 Discount Rate: 3.5
+Date: 1994-07-01, Federal funds rate: 4.26 Discount Rate: 3.5
+Date: 1994-08-01, Federal funds rate: 4.47 Discount Rate: 3.76
+Date: 1994-09-01, Federal funds rate: 4.73 Discount Rate: 4
+Date: 1994-10-01, Federal funds rate: 4.76 Discount Rate: 4
+Date: 1994-11-01, Federal funds rate: 5.29 Discount Rate: 4.4
+Date: 1994-12-01, Federal funds rate: 5.45 Discount Rate: 4.75
+Date: 1995-01-01, Federal funds rate: 5.53 Discount Rate: 4.75
+Date: 1995-02-01, Federal funds rate: 5.92 Discount Rate: 5.25
+Date: 1995-03-01, Federal funds rate: 5.98 Discount Rate: 5.25
+Date: 1995-04-01, Federal funds rate: 6.05 Discount Rate: 5.25
+Date: 1995-05-01, Federal funds rate: 6.01 Discount Rate: 5.25
+Date: 1995-06-01, Federal funds rate: 6 Discount Rate: 5.25
+Date: 1995-07-01, Federal funds rate: 5.85 Discount Rate: 5.25
+Date: 1995-08-01, Federal funds rate: 5.74 Discount Rate: 5.25
+Date: 1995-09-01, Federal funds rate: 5.8 Discount Rate: 5.25
+Date: 1995-10-01, Federal funds rate: 5.76 Discount Rate: 5.25
+Date: 1995-11-01, Federal funds rate: 5.8 Discount Rate: 5.25
+Date: 1995-12-01, Federal funds rate: 5.6 Discount Rate: 5.25
+Date: 1996-01-01, Federal funds rate: 5.56 Discount Rate: 5.24
+Date: 1996-02-01, Federal funds rate: 5.22 Discount Rate: 5
+Date: 1996-03-01, Federal funds rate: 5.31 Discount Rate: 5
+Date: 1996-04-01, Federal funds rate: 5.22 Discount Rate: 5
+Date: 1996-05-01, Federal funds rate: 5.24 Discount Rate: 5
+Date: 1996-06-01, Federal funds rate: 5.27 Discount Rate: 5
+Date: 1996-07-01, Federal funds rate: 5.4 Discount Rate: 5
+Date: 1996-08-01, Federal funds rate: 5.22 Discount Rate: 5
+Date: 1996-09-01, Federal funds rate: 5.3 Discount Rate: 5
+Date: 1996-10-01, Federal funds rate: 5.24 Discount Rate: 5
+Date: 1996-11-01, Federal funds rate: 5.31 Discount Rate: 5
+Date: 1996-12-01, Federal funds rate: 5.29 Discount Rate: 5
+Date: 1997-01-01, Federal funds rate: 5.25 Discount Rate: 5
+Date: 1997-02-01, Federal funds rate: 5.19 Discount Rate: 5
+Date: 1997-03-01, Federal funds rate: 5.39 Discount Rate: 5
+Date: 1997-04-01, Federal funds rate: 5.51 Discount Rate: 5
+Date: 1997-05-01, Federal funds rate: 5.5 Discount Rate: 5
+Date: 1997-06-01, Federal funds rate: 5.56 Discount Rate: 5
+Date: 1997-07-01, Federal funds rate: 5.52 Discount Rate: 5
+Date: 1997-08-01, Federal funds rate: 5.54 Discount Rate: 5
+Date: 1997-09-01, Federal funds rate: 5.54 Discount Rate: 5
+Date: 1997-10-01, Federal funds rate: 5.5 Discount Rate: 5
+Date: 1997-11-01, Federal funds rate: 5.52 Discount Rate: 5
+Date: 1997-12-01, Federal funds rate: 5.5 Discount Rate: 5
+Date: 1998-01-01, Federal funds rate: 5.56 Discount Rate: 5
+Date: 1998-02-01, Federal funds rate: 5.51 Discount Rate: 5
+Date: 1998-03-01, Federal funds rate: 5.49 Discount Rate: 5
+Date: 1998-04-01, Federal funds rate: 5.45 Discount Rate: 5
+Date: 1998-05-01, Federal funds rate: 5.49 Discount Rate: 5
+Date: 1998-06-01, Federal funds rate: 5.56 Discount Rate: 5
+Date: 1998-07-01, Federal funds rate: 5.54 Discount Rate: 5
+Date: 1998-08-01, Federal funds rate: 5.55 Discount Rate: 5
+Date: 1998-09-01, Federal funds rate: 5.51 Discount Rate: 5
+Date: 1998-10-01, Federal funds rate: 5.07 Discount Rate: 4.86
+Date: 1998-11-01, Federal funds rate: 4.83 Discount Rate: 4.63
+Date: 1998-12-01, Federal funds rate: 4.68 Discount Rate: 4.5
+Date: 1999-01-01, Federal funds rate: 4.63 Discount Rate: 4.5
+Date: 1999-02-01, Federal funds rate: 4.76 Discount Rate: 4.5
+Date: 1999-03-01, Federal funds rate: 4.81 Discount Rate: 4.5
+Date: 1999-04-01, Federal funds rate: 4.74 Discount Rate: 4.5
+Date: 1999-05-01, Federal funds rate: 4.74 Discount Rate: 4.5
+Date: 1999-06-01, Federal funds rate: 4.76 Discount Rate: 4.5
+Date: 1999-07-01, Federal funds rate: 4.99 Discount Rate: 4.5
+Date: 1999-08-01, Federal funds rate: 5.07 Discount Rate: 4.56
+Date: 1999-09-01, Federal funds rate: 5.22 Discount Rate: 4.75
+Date: 1999-10-01, Federal funds rate: 5.2 Discount Rate: 4.75
+Date: 1999-11-01, Federal funds rate: 5.42 Discount Rate: 4.86
+Date: 1999-12-01, Federal funds rate: 5.3 Discount Rate: 5
+Date: 2000-01-01, Federal funds rate: 5.45 Discount Rate: 5
+Date: 2000-02-01, Federal funds rate: 5.73 Discount Rate: 5.24
+Date: 2000-03-01, Federal funds rate: 5.85 Discount Rate: 5.34
+Date: 2000-04-01, Federal funds rate: 6.02 Discount Rate: 5.5
+Date: 2000-05-01, Federal funds rate: 6.27 Discount Rate: 5.71
+Date: 2000-06-01, Federal funds rate: 6.53 Discount Rate: 6
+Date: 2000-07-01, Federal funds rate: 6.54 Discount Rate: 6
+Date: 2000-08-01, Federal funds rate: 6.5 Discount Rate: 6
+Date: 2000-09-01, Federal funds rate: 6.52 Discount Rate: 6
+Date: 2000-10-01, Federal funds rate: 6.51 Discount Rate: 6
+Date: 2000-11-01, Federal funds rate: 6.51 Discount Rate: 6
+Date: 2000-12-01, Federal funds rate: 6.4 Discount Rate: 6
+Date: 2001-01-01, Federal funds rate: 5.98 Discount Rate: 5.52
+Date: 2001-02-01, Federal funds rate: 5.49 Discount Rate: 5
+Date: 2001-03-01, Federal funds rate: 5.31 Discount Rate: 4.81
+Date: 2001-04-01, Federal funds rate: 4.8 Discount Rate: 4.28
+Date: 2001-05-01, Federal funds rate: 4.21 Discount Rate: 3.73
+Date: 2001-06-01, Federal funds rate: 3.97 Discount Rate: 3.47
+Date: 2001-07-01, Federal funds rate: 3.77 Discount Rate: 3.25
+Date: 2001-08-01, Federal funds rate: 3.65 Discount Rate: 3.16
+Date: 2001-09-01, Federal funds rate: 3.07 Discount Rate: 2.77
+Date: 2001-10-01, Federal funds rate: 2.49 Discount Rate: 2.02
+Date: 2001-11-01, Federal funds rate: 2.09 Discount Rate: 1.58
+Date: 2001-12-01, Federal funds rate: 1.82 Discount Rate: 1.33
+Date: 2002-01-01, Federal funds rate: 1.73 Discount Rate: 1.25
+Date: 2002-02-01, Federal funds rate: 1.74 Discount Rate: 1.25
+Date: 2002-03-01, Federal funds rate: 1.73 Discount Rate: 1.25
+Date: 2002-04-01, Federal funds rate: 1.75 Discount Rate: 1.25
+Date: 2002-05-01, Federal funds rate: 1.75 Discount Rate: 1.25
+Date: 2002-06-01, Federal funds rate: 1.75 Discount Rate: 1.25
+Date: 2002-07-01, Federal funds rate: 1.73 Discount Rate: 1.25
+Date: 2002-08-01, Federal funds rate: 1.74 Discount Rate: 1.25
+Date: 2002-09-01, Federal funds rate: 1.75 Discount Rate: 1.25
+Date: 2002-10-01, Federal funds rate: 1.75 Discount Rate: 1.25
+Date: 2002-11-01, Federal funds rate: 1.34 Discount Rate: 0.83
+Date: 2002-12-01, Federal funds rate: 1.24 Discount Rate: 0.75
+Date: 2008-01-01, Federal funds rate: 3.94 Discount Rate: 3.5
+Date: 2008-03-01, Federal funds rate: 2.61 Discount Rate: 2.5
+Date: 2008-04-01, Federal funds rate: 2.28 Discount Rate: 2.25
