@@ -1,6 +1,5 @@
 package com.jacobarchambault.codeloujava;
 
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
@@ -16,7 +15,7 @@ public class App {
 			InputMismatchException {
 
 //        This code creates two different CSVreaders to read our files, and lists of strings from those files
-		List<String[]> fedFunds = read();
+		List<String[]> fedFunds = FedFundsCSV.read();
 		CSVReaderHeaderAware reader2 = new CSVReaderHeaderAware(
 				new FileReader(
 						"INTDSRUSM193N.csv"));
@@ -74,13 +73,5 @@ public class App {
 		pw.close();
 	}
 
-	private static List<String[]> read() throws IOException,
-			FileNotFoundException {
-		CSVReaderHeaderAware reader = new CSVReaderHeaderAware(
-				new FileReader(
-						"FEDFUNDS.csv"));
-		List<String[]> fedFunds = reader.readAll();
-		return fedFunds;
-	}
 
 }
