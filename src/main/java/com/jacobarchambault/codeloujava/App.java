@@ -34,6 +34,7 @@ public class App {
 //        Along with the code for the cases listed below, this code allows the user to choose an option from the menu.
         Scanner in = new Scanner(System.in);
         int choice = in.nextInt();
+        in.close();
 
         switch (choice) {
             case 1:
