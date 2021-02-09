@@ -34,25 +34,6 @@ public class App {
 
 		switch (choice) {
 		case 1:
-			for (String[] nextLine : reader) {
-				// nextLine[] is an array of values from the line
-				if (Float.parseFloat(
-						nextLine[1]) > 4.5) {
-					pw.println(
-							nextLine[0] + "," + nextLine[1]);
-				}
-			}
-			break;
-		case 2:
-			for (String[] value : reader2) {
-				if (Float.parseFloat(
-						value[1]) < 4.6) {
-					pw.println(
-							value[0] + "," + value[1]);
-				}
-			}
-			break;
-		case 3:
 			pw.println(
 					"Date,Federal Funds Rate,Discount Rate");
 			for (String[] ffl : fedFunds) {
@@ -68,7 +49,7 @@ public class App {
 				}
 			}
 			break;
-		case 4:
+		case 2:
 			pw.println(
 					"Date,Federal Funds Rate,Discount Rate");
 			for (String[] ffl : fedFunds) {
