@@ -19,9 +19,10 @@ public class App {
 				new CSVReaderHeaderAware(
 						new FileReader(
 								"FEDFUNDS.csv"))).read();
-		List<String[]> discountRate = new CSV(new CSVReaderHeaderAware(
-				new FileReader(
-						"INTDSRUSM193N.csv"))).read();
+		List<String[]> discountRate = new CSV(
+				new CSVReaderHeaderAware(
+						new FileReader(
+								"INTDSRUSM193N.csv"))).read();
 
 //        This creates a file writer and an output stream that will write to the file "result.csv"
 		PrintWriter pw = new PrintWriter(
@@ -40,9 +41,10 @@ public class App {
 							drl[0])
 							&& Float.parseFloat(
 									ffl[1]) > Float.parseFloat(
-											drl[1]))
+											drl[1])) {
 						pw.println(
 								ffl[0] + "," + ffl[1] + "," + drl[1]);
+					}
 				}
 			}
 			break;
@@ -56,9 +58,10 @@ public class App {
 							drl[0])
 							&& Float.parseFloat(
 									ffl[1]) < Float.parseFloat(
-											drl[1]))
+											drl[1])) {
 						pw.println(
 								ffl[0] + "," + ffl[1] + "," + drl[1]);
+					}
 				}
 			}
 			break;
