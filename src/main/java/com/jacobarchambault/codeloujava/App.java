@@ -44,6 +44,7 @@ public class App {
 											drl[1])) {
 						pw.println(
 								ffl[0] + "," + ffl[1] + "," + drl[1]);
+						break;
 					}
 				}
 			}
@@ -61,6 +62,7 @@ public class App {
 											drl[1])) {
 						pw.println(
 								ffl[0] + "," + ffl[1] + "," + drl[1]);
+						break;
 					}
 				}
 			}
