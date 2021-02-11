@@ -15,11 +15,13 @@ public class App {
 			InputMismatchException {
 
 //        This code creates two different CSVreaders to read our files, and lists of strings from those files
-		List<String[]> fedFunds = FedFundsCSV.read();
-		CSVReaderHeaderAware reader2 = new CSVReaderHeaderAware(
+		List<String[]> fedFunds = new CSV(
+				new CSVReaderHeaderAware(
+						new FileReader(
+								"FEDFUNDS.csv"))).read();
+		List<String[]> discountRate = new CSV(new CSVReaderHeaderAware(
 				new FileReader(
-						"INTDSRUSM193N.csv"));
-		List<String[]> discountRate = reader2.readAll();
+						"INTDSRUSM193N.csv"))).read();
 
 //        This creates a file writer and an output stream that will write to the file "result.csv"
 		PrintWriter pw = new PrintWriter(
@@ -72,6 +74,5 @@ public class App {
 
 		pw.close();
 	}
-
 
 }
