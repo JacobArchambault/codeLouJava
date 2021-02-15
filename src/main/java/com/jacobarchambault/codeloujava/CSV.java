@@ -15,8 +15,7 @@ class CSV {
 	
 	List<String[]> read() throws IOException,
 			FileNotFoundException {
-		List<String[]> fedFunds = reader.readAll();
-		return fedFunds;
+		return reader.readAll();
 	}
 
 }
