@@ -8,9 +8,11 @@ import com.opencsv.CSVReader;
 
 class CSV {
 	CSVReader reader;
+	
 	CSV(CSVReader reader){
 		this.reader = reader;
 	}
+	
 	List<String[]> read() throws IOException,
 			FileNotFoundException {
 		List<String[]> fedFunds = reader.readAll();

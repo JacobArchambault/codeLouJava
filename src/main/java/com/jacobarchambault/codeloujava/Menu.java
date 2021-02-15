@@ -14,7 +14,7 @@ public class Menu {
 		System.out.println(
 				"3. Exit program");
 
-		// Along with the code for the cases listed below, this code allows the user to
+		// This code allows the user to
 		// choose an option from the menu.
 		Scanner in = new Scanner(
 				System.in);
