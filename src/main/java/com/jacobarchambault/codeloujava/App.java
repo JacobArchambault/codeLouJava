@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.InputMismatchException;
 import java.util.List;
+import java.util.Scanner;
 
 import com.opencsv.CSVReaderHeaderAware;
 
@@ -30,7 +31,7 @@ public class App {
 						"result.csv",
 						false));
 
-		switch (Menu.selection()) {
+		switch (new Menu(new Scanner(System.in)).selection()) {
 		case 1:
 			write1(
 					fedFunds,

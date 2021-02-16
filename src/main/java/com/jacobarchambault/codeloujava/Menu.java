@@ -3,8 +3,18 @@ package com.jacobarchambault.codeloujava;
 import java.util.Scanner;
 
 public class Menu {
-	static int selection() {
-		// This code prints out the main menu to the console.
+	final Scanner scanner;
+	public Menu(Scanner scanner) {
+		this.scanner = scanner;
+	}
+	int selection() {
+		print();
+		// get user selection from menu
+		int choice = scanner.nextInt();
+		scanner.close();
+		return choice;
+	}
+	private void print() {
 		System.out.println(
 				"Enter a number to choose an option:");
 		System.out.println(
@@ -13,14 +23,6 @@ public class Menu {
 				"2. Print a list of months where the federal reserve discount rate was greater than the federal funds rate");
 		System.out.println(
 				"3. Exit program");
-
-		// This code allows the user to
-		// choose an option from the menu.
-		Scanner in = new Scanner(
-				System.in);
-		int choice = in.nextInt();
-		in.close();
-		return choice;
 	}
 
 }
