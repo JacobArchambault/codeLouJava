@@ -30,19 +30,16 @@ public class App {
 				new FileOutputStream(
 						"result.csv",
 						false));
+		Data data = new Data(fedFunds, discountRate, pw);
 
-		switch (new Menu(new Scanner(System.in)).selection()) {
+		switch (new Menu(
+				new Scanner(
+						System.in)).selection()) {
 		case 1:
-			write1(
-					fedFunds,
-					discountRate,
-					pw);
+			data.write1();
 			break;
 		case 2:
-			write2(
-					fedFunds,
-					discountRate,
-					pw);
+			data.write2();
 			break;
 		default:
 			System.out.println(
@@ -54,51 +51,7 @@ public class App {
 		System.out.println(
 				"Your file is ready! It is titled result.csv");
 
-		pw.close();
 	}
 
-	private static void write1(
-			List<String[]> fedFunds,
-			List<String[]> discountRate,
-			PrintWriter pw) {
-		pw.println(
-				"Date,Federal Funds Rate,Discount Rate");
-		for (String[] ffl : fedFunds) {
-			for (String[] drl : discountRate) {
-				// comparison code
-				if (ffl[0].equals(
-						drl[0])
-						&& Float.parseFloat(
-								ffl[1]) > Float.parseFloat(
-										drl[1])) {
-					pw.println(
-							ffl[0] + "," + ffl[1] + "," + drl[1]);
-					break;
-				}
-			}
-		}
-	}
-
-	private static void write2(
-			List<String[]> fedFunds,
-			List<String[]> discountRate,
-			PrintWriter pw) {
-		pw.println(
-				"Date,Federal Funds Rate,Discount Rate");
-		for (String[] ffl : fedFunds) {
-			for (String[] drl : discountRate) {
-				// comparison code
-				if (ffl[0].equals(
-						drl[0])
-						&& Float.parseFloat(
-								ffl[1]) < Float.parseFloat(
-										drl[1])) {
-					pw.println(
-							ffl[0] + "," + ffl[1] + "," + drl[1]);
-					break;
-				}
-			}
-		}
-	}
 
 }
