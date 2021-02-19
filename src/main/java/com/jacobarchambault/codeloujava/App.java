@@ -1,53 +1,39 @@
 package com.jacobarchambault.codeloujava;
 
-import java.io.FileOutputStream;
+import java.awt.Desktop;
+import java.io.File;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
-import java.io.PrintWriter;
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
 import com.opencsv.CSVReaderHeaderAware;
+import com.opencsv.CSVWriter;
 
 public class App {
 	public static void main(
 			String[] args) throws IOException,
 			InputMismatchException {
-
-//        This creates a file writer and an output stream that will write to the file "result.csv"
-		Data data = new Data(
-				new CSV(
-						new CSVReaderHeaderAware(
-								new FileReader(
-										"FEDFUNDS.csv"))).read(),
-				new CSV(
-						new CSVReaderHeaderAware(
-								new FileReader(
-										"INTDSRUSM193N.csv"))).read(),
-				new PrintWriter(
-						new FileOutputStream(
-								"result.csv",
-								false)));
-
-		switch (new Menu(
-				new Scanner(
-						System.in)).selection()) {
-		case 1:
-			data.write1();
-			break;
-		case 2:
-			data.write2();
-			break;
-		default:
-			System.out.println(
-					"Exiting");
-			System.exit(
-					0);
-		}
-
+		new CSV(
+				new UserSelection(
+						new Menu(
+								new Scanner(
+										System.in)),
+						new CombinedData(
+								new CSVReaderHeaderAware(
+										new FileReader(
+												"FEDFUNDS.csv")),
+								new CSVReaderHeaderAware(
+										new FileReader(
+												"INTDSRUSM193N.csv")))),
+				new CSVWriter(
+						new FileWriter(
+								"result.csv"))).write();
 		System.out.println(
-				"Your file is ready! It is titled result.csv");
-
+				"Your file is ready! Here you go.");
+		Desktop.getDesktop()
+				.open(
+						new File(
+								"result.csv"));
 	}
-
 }

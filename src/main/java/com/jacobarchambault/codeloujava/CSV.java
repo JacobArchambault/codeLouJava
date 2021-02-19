@@ -1,21 +1,25 @@
 package com.jacobarchambault.codeloujava;
 
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.List;
+import com.opencsv.CSVWriter;
 
-import com.opencsv.CSVReader;
+public class CSV {
 
-class CSV {
-	CSVReader reader;
-	
-	CSV(CSVReader reader){
-		this.reader = reader;
-	}
-	
-	List<String[]> read() throws IOException,
-			FileNotFoundException {
-		return reader.readAll();
+	IData data;
+	CSVWriter writer;
+
+	CSV(
+			IData data,
+			CSVWriter writer) {
+		this.data = data;
+		this.writer = writer;
 	}
 
+	void write() throws IOException {
+		writer.writeNext(new String[]{
+				"Date","Federal Funds Rate","Discount Rate"});
+		writer.writeAll(
+				data.toArray());
+		writer.close();
+	}
 }
