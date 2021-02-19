@@ -1,6 +1,7 @@
 package com.jacobarchambault.codeloujava;
 
 import java.awt.Desktop;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -27,8 +28,9 @@ public class App {
 										new FileReader(
 												"INTDSRUSM193N.csv")))),
 				new CSVWriter(
-						new FileWriter(
-								"result.csv"))).write();
+						new BufferedWriter(
+								new FileWriter(
+										"result.csv")))).write();
 		System.out.println(
 				"Your file is ready! Here you go.");
 		Desktop.getDesktop()
