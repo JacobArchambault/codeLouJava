@@ -11,11 +11,12 @@ import java.util.Scanner;
 
 import com.opencsv.CSVReaderHeaderAware;
 import com.opencsv.CSVWriter;
+import com.opencsv.exceptions.CsvException;
 
 public class App {
 	public static void main(
 			String[] args) throws IOException,
-			InputMismatchException {
+			CsvException {
 		String outputFilePath = "result.csv";
 		new CSV(
 				new UserSelection(

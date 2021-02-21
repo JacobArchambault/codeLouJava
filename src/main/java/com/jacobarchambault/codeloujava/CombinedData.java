@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 import com.opencsv.CSVReader;
-
+import com.opencsv.exceptions.CsvException;
 class CombinedData implements Data {
 	CSVReader reader1;
 	CSVReader reader2;
@@ -18,7 +18,7 @@ class CombinedData implements Data {
 	}
 
 	@Override
-	public List<String[]> toList() throws IOException {
+	public List<String[]> toList() throws CsvException, IOException {
 		List<String[]> data1 = reader1.readAll();
 		List<String[]> data2 = reader2.readAll();
 		List<String[]> combinedCSVData = new LinkedList<String[]>();

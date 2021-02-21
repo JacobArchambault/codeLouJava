@@ -4,6 +4,8 @@ import java.io.IOException;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import com.opencsv.exceptions.CsvException;
+
 public class UserSelection implements Data {
 
 	Data data;
@@ -17,7 +19,7 @@ public class UserSelection implements Data {
 	}
 
 	@Override
-	public List<String[]> toList() throws IOException {
+	public List<String[]> toList() throws IOException, CsvException {
 		switch (menu.selection()) {
 		case "1":
 			return option1();
@@ -28,7 +30,7 @@ public class UserSelection implements Data {
 		}
 	}
 
-	private List<String[]> option1() throws IOException {
+	private List<String[]> option1() throws IOException, CsvException {
 		return data.toList()
 				.stream()
 				.filter(
@@ -39,7 +41,7 @@ public class UserSelection implements Data {
 						Collectors.toList());
 	}
 
-	private List<String[]> option2() throws IOException {
+	private List<String[]> option2() throws IOException, CsvException {
 		return data.toList()
 				.stream()
 				.filter(

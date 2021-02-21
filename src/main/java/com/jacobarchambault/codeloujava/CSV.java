@@ -3,6 +3,7 @@ package com.jacobarchambault.codeloujava;
 import java.io.IOException;
 
 import com.opencsv.CSVWriter;
+import com.opencsv.exceptions.CsvException;
 
 public class CSV {
 
@@ -16,7 +17,7 @@ public class CSV {
 		this.writer = writer;
 	}
 
-	void write() throws IOException {
+	void write() throws IOException, CsvException {
 		writer.writeNext(
 				new String[] { "Date", "Federal Funds Rate", "Discount Rate" });
 		writer.writeAll(
