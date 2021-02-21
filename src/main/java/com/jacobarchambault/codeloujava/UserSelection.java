@@ -4,14 +4,14 @@ import java.io.IOException;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class UserSelection implements IData {
+public class UserSelection implements Data {
 
 	Menu menu;
-	IData data;
+	Data data;
 
 	UserSelection(
 			Menu menu,
-			IData filteredData) {
+			Data filteredData) {
 		this.menu = menu;
 		this.data = filteredData;
 	}

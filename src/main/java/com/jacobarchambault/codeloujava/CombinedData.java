@@ -7,7 +7,7 @@ import java.util.List;
 
 import com.opencsv.CSVReader;
 
-class CombinedData implements IData {
+class CombinedData implements Data {
 	CSVReader reader1;
 	CSVReader reader2;
 	

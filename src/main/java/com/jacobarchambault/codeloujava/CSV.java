@@ -5,11 +5,11 @@ import com.opencsv.CSVWriter;
 
 public class CSV {
 
-	IData data;
+	Data data;
 	CSVWriter writer;
 
 	CSV(
-			IData data,
+			Data data,
 			CSVWriter writer) {
 		this.data = data;
 		this.writer = writer;
