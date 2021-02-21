@@ -6,14 +6,14 @@ import java.util.stream.Collectors;
 
 import com.opencsv.exceptions.CsvException;
 
-public class UserSelection implements Data {
+public class UserSelection implements CsvData {
 
-	Data data;
+	CsvData data;
 	Menu menu;
 
 	UserSelection(
 			Menu menu,
-			Data filteredData) {
+			CsvData filteredData) {
 		this.menu = menu;
 		this.data = filteredData;
 	}

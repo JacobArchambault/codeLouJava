@@ -6,7 +6,7 @@ import java.util.List;
 
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvException;
-class CombinedData implements Data {
+class CombinedData implements CsvData {
 	CSVReader reader1;
 	CSVReader reader2;
 

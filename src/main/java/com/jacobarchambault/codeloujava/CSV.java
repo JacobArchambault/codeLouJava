@@ -7,11 +7,11 @@ import com.opencsv.exceptions.CsvException;
 
 public class CSV {
 
-	Data data;
+	CsvData data;
 	CSVWriter writer;
 
 	CSV(
-			Data data,
+			CsvData data,
 			CSVWriter writer) {
 		this.data = data;
 		this.writer = writer;
