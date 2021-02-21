@@ -6,8 +6,8 @@ import java.util.stream.Collectors;
 
 public class UserSelection implements Data {
 
-	Menu menu;
 	Data data;
+	Menu menu;
 
 	UserSelection(
 			Menu menu,
@@ -16,6 +16,7 @@ public class UserSelection implements Data {
 		this.data = filteredData;
 	}
 
+	@Override
 	public List<String[]> toList() throws IOException {
 		switch (menu.selection()) {
 		case "1":
@@ -25,7 +26,6 @@ public class UserSelection implements Data {
 		default:
 			return data.toList();
 		}
-
 	}
 
 	private List<String[]> option1() throws IOException {

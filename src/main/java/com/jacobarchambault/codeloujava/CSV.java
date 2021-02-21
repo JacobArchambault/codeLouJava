@@ -1,6 +1,7 @@
 package com.jacobarchambault.codeloujava;
 
 import java.io.IOException;
+
 import com.opencsv.CSVWriter;
 
 public class CSV {
@@ -16,8 +17,8 @@ public class CSV {
 	}
 
 	void write() throws IOException {
-		writer.writeNext(new String[]{
-				"Date","Federal Funds Rate","Discount Rate"});
+		writer.writeNext(
+				new String[] { "Date", "Federal Funds Rate", "Discount Rate" });
 		writer.writeAll(
 				data.toList());
 		writer.close();
