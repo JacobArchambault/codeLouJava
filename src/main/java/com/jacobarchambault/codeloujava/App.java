@@ -44,7 +44,6 @@ public class App {
 											new FileWriter(
 													outputFilePath))))).write();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
@@ -57,7 +56,6 @@ public class App {
 							new File(
 									outputFilePath));
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
