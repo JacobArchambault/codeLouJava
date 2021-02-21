@@ -28,12 +28,5 @@ class CombinedData implements Data {
 		}
 		return combinedCSVData;
 	}
-	List<String[]> writeFirst() {
-		List<String[]> combinedCSVData = new ArrayList<String[]>();
-		for (String[] line : reader1) {
-			combinedCSVData.add(line);
-		}
-		return combinedCSVData;
-	}
 
 }
