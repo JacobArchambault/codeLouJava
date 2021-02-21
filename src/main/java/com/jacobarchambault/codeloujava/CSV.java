@@ -19,7 +19,7 @@ public class CSV {
 		writer.writeNext(new String[]{
 				"Date","Federal Funds Rate","Discount Rate"});
 		writer.writeAll(
-				data.toArray());
+				data.toList());
 		writer.close();
 	}
 }

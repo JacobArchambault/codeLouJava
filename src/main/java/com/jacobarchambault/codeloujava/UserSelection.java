@@ -16,20 +16,20 @@ public class UserSelection implements IData {
 		this.data = filteredData;
 	}
 
-	public List<String[]> toArray() throws IOException {
+	public List<String[]> toList() throws IOException {
 		switch (menu.selection()) {
 		case "1":
 			return option1();
 		case "2":
 			return option2();
 		default:
-			return data.toArray();
+			return data.toList();
 		}
 
 	}
 
 	private List<String[]> option1() throws IOException {
-		return data.toArray()
+		return data.toList()
 				.stream()
 				.filter(
 						x -> Float.parseFloat(
@@ -40,7 +40,7 @@ public class UserSelection implements IData {
 	}
 
 	private List<String[]> option2() throws IOException {
-		return data.toArray()
+		return data.toList()
 				.stream()
 				.filter(
 						x -> Float.parseFloat(

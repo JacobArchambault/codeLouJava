@@ -15,7 +15,7 @@ class CombinedData implements IData {
 		this.reader1 = reader1;
 		this.reader2 = reader2;
 	}
-	public List<String[]> toArray() throws IOException{
+	public List<String[]> toList() throws IOException{
 		List<String[]> data1 = reader1.readAll();
 		List<String[]> data2 = reader2.readAll();
 		List<String[]> combinedCSVData = new LinkedList<String[]>();
