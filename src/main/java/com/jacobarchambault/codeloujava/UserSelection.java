@@ -19,7 +19,8 @@ public class UserSelection implements CsvData {
 	}
 
 	@Override
-	public List<String[]> toList() throws IOException, CsvException {
+	public List<String[]> toList() throws IOException,
+			CsvException {
 		switch (menu.selection()) {
 		case "1":
 			return option1();
@@ -30,7 +31,8 @@ public class UserSelection implements CsvData {
 		}
 	}
 
-	private List<String[]> option1() throws IOException, CsvException {
+	private List<String[]> option1() throws IOException,
+			CsvException {
 		return data.toList()
 				.stream()
 				.filter(
@@ -41,7 +43,8 @@ public class UserSelection implements CsvData {
 						Collectors.toList());
 	}
 
-	private List<String[]> option2() throws IOException, CsvException {
+	private List<String[]> option2() throws IOException,
+			CsvException {
 		return data.toList()
 				.stream()
 				.filter(

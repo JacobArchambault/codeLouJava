@@ -17,7 +17,8 @@ public class CSV {
 		this.writer = writer;
 	}
 
-	void write() throws IOException, CsvException {
+	void write() throws IOException,
+			CsvException {
 		writer.writeNext(
 				new String[] { "Date", "Federal Funds Rate", "Discount Rate" });
 		writer.writeAll(
