@@ -16,6 +16,7 @@ public class App {
 	public static void main(
 			String[] args) throws IOException,
 			InputMismatchException {
+		String outputFilePath = "result.csv";
 		new CSV(
 				new UserSelection(
 						new Menu(
@@ -31,12 +32,12 @@ public class App {
 				new CSVWriter(
 						new BufferedWriter(
 								new FileWriter(
-										"result.csv")))).write();
+										outputFilePath)))).write();
 		System.out.println(
 				"Your file is ready! Here you go.");
 		Desktop.getDesktop()
 				.open(
 						new File(
-								"result.csv"));
+								outputFilePath));
 	}
 }
