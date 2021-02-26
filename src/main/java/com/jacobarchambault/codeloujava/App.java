@@ -23,6 +23,18 @@ public class App {
 				outputFilePath);
 	}
 
+	private static void tryOpen(
+			String outputFilePath) {
+		try {
+			Desktop.getDesktop()
+					.open(
+							new File(
+									outputFilePath));
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+
 	private static void tryWrite(
 			String outputFilePath) {
 		try {
@@ -43,18 +55,6 @@ public class App {
 									new BufferedWriter(
 											new FileWriter(
 													outputFilePath))))).write();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	}
-
-	private static void tryOpen(
-			String outputFilePath) {
-		try {
-			Desktop.getDesktop()
-					.open(
-							new File(
-									outputFilePath));
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

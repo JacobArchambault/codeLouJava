@@ -14,7 +14,7 @@ public class GuardedCSV implements CSV {
 	}
 
 	@Override
-	public void write()  {
+	public void write() {
 		try {
 			csv.write();
 		} catch (IOException | CsvException e) {
